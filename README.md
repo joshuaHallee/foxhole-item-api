@@ -18,7 +18,7 @@ All available fields that exist in the DB with short description, some items omi
     isTeched: Boolean | if it requires tech unlock or not,
     isMfpCraftable: Boolean | if it can be produced in mass production factory,
     numberProducedBonus: String | if making this in a mpf gives bonus,
-    highVelocityBonus: String | high velocity 
+    highVelocityBonus: String | high velocity,
     damageType: String | Type of damaged delt,
     damageDesc: String | additional info on damageType,
     vehiclePen: String | description on how ammo Type can penetrate vehicles,

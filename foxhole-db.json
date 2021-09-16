@@ -1623,6 +1623,11 @@
 
 
 
+
+
+
+
+
   {
     "displayId": ,
     "faction": [
@@ -1665,24 +1670,6 @@
       "colonial",
       "warden"
     ],
-    "imgName": "BMS_Aquatipper.png",
-    "itemName": "BMS - Aquatipper",
-    "itemClass": "Barge",
-    "itemDesc": "A large shipping vessel, the Aquatipper is used to transport vehicles, equipment, and personnel over large bodies of water.",
-    "itemCategory": "vehicles",
-    "numberProduced": 3,
-    "isTeched": false,
-    "isMpfCraftable": true,
-    "cost": {
-      "bmat": 450
-    }
-  },
-  {
-    "displayId": ,
-    "faction": [
-      "colonial",
-      "warden"
-    ],
     "imgName": "BMS_Ironship.png",
     "itemName": "BMS - Ironship",
     "itemClass": "Freighter",
@@ -1695,63 +1682,6 @@
       "bmat": 1500
     }
   },
-  {
-    "displayId": ,
-    "faction": [
-      "colonial",
-      "warden"
-    ],
-    "imgName": "BMS_White_Whale.png",
-    "itemName": "BMS - White Whale",
-    "itemClass": "Landing Ship",
-    "itemDesc": "A heavily armored vessel, the Basset Motor Society's White Whale-class troop transports can deploy on a faraway beaches to function as a permanent forward operating base.",
-    "itemCategory": "vehicles",
-    "numberProduced": 3,
-    "isTeched": true,
-    "isMpfCraftable": true,
-    "cost": {
-      "rmat": 300
-    }
-  },
-  {
-    "displayId": ,
-    "faction": [
-      "colonial",
-      "warden"
-    ],
-    "imgName": "BMS_Universal_Assemly_Rig.png",
-    "itemName": "BMS - Universal Assemly Rig",
-    "itemClass": "Construction Vehicle",
-    "itemDesc": "A specialized vehicle designed by the Basset Motor Society used in the construction of large structures.",
-    "itemCategory": "vehicles",
-    "numberProduced": 3,
-    "isTeched": true,
-    "isMpfCraftable": true,
-    "cost": {
-      "bmat": 300
-    }
-  },
-  {
-    "displayId": ,
-    "faction": [
-      "colonial",
-      "warden"
-    ],
-    "imgName": "BMS_Class_2_Mobile_Auto_Crane.png",
-    "itemName": "BMS - Class 2 Mobile Auto-Crane",
-    "itemClass": "Crane",
-    "itemDesc": "The Basset Motor Society's Class 2 Mobile Auto-Crane is used to lift and reposition vehicles and very heavy equipment.",
-    "itemCategory": "vehicles",
-    "numberProduced": 3,
-    "isTeched": true,
-    "isMpfCraftable": true,
-    "cost": {
-      "bmat": 375
-    }
-  },
-  
-
-  // colonial vehicles
   {
     "displayId": ,
     "faction": [
@@ -2307,26 +2237,6 @@
   {
     "displayId": ,
     "faction": [
-      "colonial"
-    ],
-    "imgName": ".png",
-    "itemName": "Type C - \"Charon\"",
-    "itemClass": "Gunboat",
-    "itemDesc": "A navel vessel designed to bombard coastal targets. The Charon is fitted with a 120mm light artillery cannon and 14.5mm Machinegun.",
-    "itemCategory": "vehicles",
-    "numberProduced": 3,
-    "isTeched": true,
-    "isMpfCraftable": true,
-    "cost": {
-      "rmat": 480
-    }
-  },
-
-
-  //warden vehicles
-  {
-    "displayId": ,
-    "faction": [
       "warden"
     ],
     "imgName": ".png",
@@ -2839,6 +2749,58 @@
       "bmat": 300
     }
   },
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  {
+    "displayId": ,
+    "faction": [
+      "colonial",
+      "warden"
+    ],
+    "imgName": "BMS_Aquatipper.png",
+    "itemName": "BMS - Aquatipper",
+    "itemClass": "Barge",
+    "itemDesc": "A large shipping vessel, the Aquatipper is used to transport vehicles, equipment, and personnel over large bodies of water.",
+    "itemCategory": "vehicles",
+    "numberProduced": 3,
+    "isTeched": false,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 450
+    }
+  },
+  {
+    "displayId": ,
+    "faction": [
+      "colonial"
+    ],
+    "imgName": ".png",
+    "itemName": "Type C - \"Charon\"",
+    "itemClass": "Gunboat",
+    "itemDesc": "A navel vessel designed to bombard coastal targets. The Charon is fitted with a 120mm light artillery cannon and 14.5mm Machinegun.",
+    "itemCategory": "vehicles",
+    "numberProduced": 3,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "rmat": 480
+    }
+  },
   {
     "displayId": ,
     "faction": [
@@ -2873,10 +2835,59 @@
     "cost": {
       "rmat": 480
     }
+  },
+  {
+    "displayId": ,
+    "faction": [
+      "colonial",
+      "warden"
+    ],
+    "imgName": "BMS_White_Whale.png",
+    "itemName": "BMS - White Whale",
+    "itemClass": "Landing Ship",
+    "itemDesc": "A heavily armored vessel, the Basset Motor Society's White Whale-class troop transports can deploy on a faraway beaches to function as a permanent forward operating base.",
+    "itemCategory": "vehicles",
+    "numberProduced": 3,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "rmat": 300
+    }
+  },
+  {
+    "displayId": ,
+    "faction": [
+      "colonial",
+      "warden"
+    ],
+    "imgName": "BMS_Universal_Assemly_Rig.png",
+    "itemName": "BMS - Universal Assemly Rig",
+    "itemClass": "Construction Vehicle",
+    "itemDesc": "A specialized vehicle designed by the Basset Motor Society used in the construction of large structures.",
+    "itemCategory": "vehicles",
+    "numberProduced": 3,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 300
+    }
+  },
+  {
+    "displayId": ,
+    "faction": [
+      "colonial",
+      "warden"
+    ],
+    "imgName": "BMS_Class_2_Mobile_Auto_Crane.png",
+    "itemName": "BMS - Class 2 Mobile Auto-Crane",
+    "itemClass": "Crane",
+    "itemDesc": "The Basset Motor Society's Class 2 Mobile Auto-Crane is used to lift and reposition vehicles and very heavy equipment.",
+    "itemCategory": "vehicles",
+    "numberProduced": 3,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 375
+    }
   }
-
-
-
-
-
 ]
