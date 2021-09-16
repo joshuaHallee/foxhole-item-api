@@ -6,6 +6,7 @@ All available fields that exist in the DB with short description, some items omi
 ```javascript
 {
     _id: UUID,
+    displayId: Number | key used in sorting per category, matches in game menu
     name: String | item name,
     description: String| item description,
     faction: Array | ["neutral", "colonial", "warden"],
@@ -15,6 +16,9 @@ All available fields that exist in the DB with short description, some items omi
     ammoUsed: String | Type of ammo required for weapon,
     amountProduced: Number | amount made per crate,
     isTeched: Boolean | if it requires tech unlock or not,
+    isMfpCraftable: Boolean | if it can be produced in mass production factory,
+    numberProducedBonus: String | if making this in a mpf gives bonus,
+    highVelocityBonus: String | high velocity 
     damageType: String | Type of damaged delt,
     damageDesc: String | additional info on damageType,
     vehiclePen: String | description on how ammo Type can penetrate vehicles,
