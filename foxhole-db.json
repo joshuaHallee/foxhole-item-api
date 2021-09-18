@@ -1613,77 +1613,8 @@
       "bmat": 100
     }
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   {
-    "displayId": ,
-    "faction": [
-      "colonial",
-      "warden"
-    ],
-    "imgName": "BMS_Packmule_Flatbed.png",
-    "itemName": "BMS - Packmule Flatbed",
-    "itemClass": "Flatbed Truck",
-    "itemDesc": "A heavy duty shipping transport truck designed by Bassett Motor Society. It's built for hauling the heaviest of equipment over long distances with ease.",
-    "itemCategory": "vehicles",
-    "numberProduced": 3,
-    "isTeched": false,
-    "isMpfCraftable": true,
-    "cost": {
-      "rmat": 90
-    }
-  },
-  {
-    "displayId": ,
-    "faction": [
-      "colonial",
-      "warden"
-    ],
-    "imgName": "BMS_Scrap_Hauler.png",
-    "itemName": "BMS - Scrap Hauler",
-    "itemClass": "Harvester",
-    "itemDesc": "The Scrap Hauler, designed by the Bassett Motor Society is a heavy-duty piece of machinery designed to reduce scrap matal and other materials into usable, raw resources. Scrap Haulers are often used to extract battlefield resources following skirmishes.",
-    "itemCategory": "vehicles",
-    "numberProduced": 3,
-    "isTeched": true,
-    "isMpfCraftable": true,
-    "cost": {
-      "rmat": 360
-    }
-  },
-  {
-    "displayId": ,
-    "faction": [
-      "colonial",
-      "warden"
-    ],
-    "imgName": "BMS_Ironship.png",
-    "itemName": "BMS - Ironship",
-    "itemClass": "Freighter",
-    "itemDesc": "The Basset Motor Society's Ironship-class shipping vessel is used to freight shippable goods and heavy vehicles.",
-    "itemCategory": "vehicles",
-    "numberProduced": 3,
-    "isTeched": true,
-    "isMpfCraftable": true,
-    "cost": {
-      "bmat": 1500
-    }
-  },
-  {
-    "displayId": ,
+    "displayId": 0,
     "faction": [
       "colonial"
     ],
@@ -1700,7 +1631,24 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 1,
+    "faction": [
+      "warden"
+    ],
+    "imgName": ".png",
+    "itemName": "Dunne Responder 3e",
+    "itemClass": "Ambulance",
+    "itemDesc": "The Responder Ambuleance is efficient at transporting Critically Wounded Soldiers and carrying medical supplies.",
+    "itemCategory": "vehicles",
+    "numberProduced": 3,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 450
+    }
+  },
+  {
+    "displayId": 2,
     "faction": [
       "colonial"
     ],
@@ -1716,8 +1664,9 @@
       "rmat": 120
     }
   },
+
   {
-    "displayId": ,
+    "displayId": 3,
     "faction": [
       "colonial"
     ],
@@ -1734,7 +1683,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 4,
     "faction": [
       "colonial"
     ],
@@ -1751,7 +1700,58 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 5,
+    "faction": [
+      "warden"
+    ],
+    "imgName": ".png",
+    "itemName": "O'Brien v.121 Highlander",
+    "itemClass": "Armored Car",
+    "itemDesc": "Fitted with all-terrain treads, the Highlander brings significant all-terrain mobility and performs especially well in snowy and mountainous environments.",
+    "itemCategory": "vehicles",
+    "numberProduced": 1,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "rmat": 120
+    }
+  },
+  {
+    "displayId": 6,
+    "faction": [
+      "warden"
+    ],
+    "imgName": ".png",
+    "itemName": "O'Brien v.101 Freeman",
+    "itemClass": "Armored Car",
+    "itemDesc": "This early O'Brein variant, the v.101 Freeman is fitted with a 360 degree ballistics cannon turret at the expense of top speed.",
+    "itemCategory": "vehicles",
+    "numberProduced": 3,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "rmat": 180
+    }
+  },
+  {
+    "displayId": 7,
+    "faction": [
+      "warden"
+    ],
+    "imgName": ".png",
+    "itemName": "O'Brien v.110",
+    "itemClass": "Armored Car",
+    "itemDesc": "Warden Armoured Cars are quick, well-rounded urban assault platforms. These anti-infantry vehicles are equipped with twin-barrelled machineguns.",
+    "itemCategory": "vehicles",
+    "numberProduced": 1,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "rmat": 105
+    }
+  },
+  {
+    "displayId": 8,
     "faction": [
       "colonial"
     ],
@@ -1768,7 +1768,24 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 9,
+    "faction": [
+      "warden"
+    ],
+    "imgName": ".png",
+    "itemName": "Dunne Caravaner 2F",
+    "itemClass": "Transport Bus",
+    "itemDesc": "The Caravaner is a transport vehicle used to shuttle personnel to the front line.",
+    "itemCategory": "vehicles",
+    "numberProduced": 3,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 300
+    }
+  },
+  {
+    "displayId": 10,
     "faction": [
       "colonial"
     ],
@@ -1785,7 +1802,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 11,
     "faction": [
       "colonial"
     ],
@@ -1803,7 +1820,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 12,
     "faction": [
       "colonial"
     ],
@@ -1820,7 +1837,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 13,
     "faction": [
       "colonial"
     ],
@@ -1837,7 +1854,130 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 14,
+    "faction": [
+      "warden"
+    ],
+    "imgName": ".png",
+    "itemName": "Noble Widow MK. XIV",
+    "itemClass": "Destroyer Tank",
+    "itemDesc": "This deadly tank turns predator into prey. A tank Destroyer, the Noble Widow specializes in ambush tactics, waiting for its quarry and striking with destructive high-velocity shells",
+    "itemCategory": "vehicles",
+    "highVelocityBonus": "Equipped with a high velocity barrel that deals 75% extra damage per shot.",
+    "numberProduced": 1,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "rmat": 480
+    }
+  },
+  {
+    "displayId": 15,
+    "faction": [
+      "warden"
+    ],
+    "imgName": ".png",
+    "itemName": "Collins Cannon 68mm",
+    "itemClass": "Field AT Gun",
+    "itemDesc": "The Collins Cannon is a mobile Anti-Tank field gun firing 68mm armor-piercing rounds.",
+    "itemCategory": "vehicles",
+    "numberProduced": 1,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "rmat": 90
+    }
+  },
+  {
+    "displayId": 16,
+    "faction": [
+      "warden"
+    ],
+    "imgName": ".png",
+    "itemName": "Balfour Rampart 40mm",
+    "itemClass": "Heavy Field Cannon",
+    "itemDesc": "The Rampart is a high-velocity, anti-armor field cannon capable of dealing devasting damage to all but the heaviest armored vehicles while providing its crew with comprehensive ballistic shielding.",
+    "itemCategory": "vehicles",
+    "highVelocityBonus": "Equipped with a high velocity barrel that deals 115% extra damage per shot.",
+    "numberProduced": 1,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "rmat": 120
+    }
+  },
+  {
+    "displayId": 17,
+    "faction": [
+      "warden"
+    ],
+    "imgName": ".png",
+    "itemName": "Balfor Wolfhound 40mm",
+    "itemClass": "Field Cannon",
+    "itemDesc": "This destructive short-ranged cannon is designed for direct engagement with enemy fortifications. The Wolfhound is fitted with reinforced shielding and a 40mm barrel.",
+    "itemCategory": "vehicles",
+    "numberProduced": 1,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "rmat": 90
+    }
+  },
+  {
+    "displayId": 18,
+    "faction": [
+      "warden"
+    ],
+    "imgName": ".png",
+    "itemName": "Swallowtail 988/127-2",
+    "itemClass": "Field Machine Gun",
+    "itemDesc": "A duel barrelled, high calibre anti-infantry machine gun. The Swallowtail is fitted with forward-facing armor plating and is excellent for suppression.",
+    "itemCategory": "vehicles",
+    "highVelocityBonus": "Equipped with a high velocity barrel that deals 20% extra damage per shot.",
+    "numberProduced": 3,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "rmat": 75
+    }
+  },
+  {
+    "displayId": 19,
+    "faction": [
+      "warden"
+    ],
+    "imgName": ".png",
+    "itemName": "Balfour Falconer 250mm",
+    "itemClass": "Field Mortar",
+    "itemDesc": "A heavy mobile mortar platform fitted with a thick frontal sheild for assaulting fortified locations.",
+    "itemCategory": "vehicles",
+    "numberProduced": 3,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "rmat": 105
+    }
+  },
+  {
+    "displayId": 20,
+    "faction": [
+      "colonial",
+      "warden"
+    ],
+    "imgName": "BMS_Packmule_Flatbed.png",
+    "itemName": "BMS - Packmule Flatbed",
+    "itemClass": "Flatbed Truck",
+    "itemDesc": "A heavy duty shipping transport truck designed by Bassett Motor Society. It's built for hauling the heaviest of equipment over long distances with ease.",
+    "itemCategory": "vehicles",
+    "numberProduced": 3,
+    "isTeched": false,
+    "isMpfCraftable": true,
+    "cost": {
+      "rmat": 90
+    }
+  },
+  {
+    "displayId": 21,
     "faction": [
       "colonial"
     ],
@@ -1854,14 +1994,14 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 22,
     "faction": [
       "colonial"
     ],
     "imgName": ".png",
     "itemName": "HH-a \"Javelin\"",
     "itemClass": "Half-Track",
-    "itemDesc": "Designed for escort missions and to support infantry operations, the HH-a class "Javelin" Half-Track is an armored, versatile all-terrain vehicle equipped with a mounted machinegun.",
+    "itemDesc": "Designed for escort missions and to support infantry operations, the HH-a class \"Javelin\" Half-Track is an armored, versatile all-terrain vehicle equipped with a mounted machinegun.",
     "itemCategory": "vehicles",
     "numberProduced": 3,
     "isTeched": true,
@@ -1871,7 +2011,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 23,
     "faction": [
       "colonial"
     ],
@@ -1888,7 +2028,59 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 24,
+    "faction": [
+      "warden"
+    ],
+    "imgName": ".png",
+    "itemName": "Niska Mk. II Blinder",
+    "itemClass": "Half-Track",
+    "itemDesc": "Fitted with a heavy-duty anti-tank gun, the Blinder is capable of punching through all but the most tempered of alloys.",
+    "itemCategory": "vehicles",
+    "numberProduced": 3,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "rmat": 255
+    }
+  },
+  {
+    "displayId": 25,
+    "faction": [
+      "warden"
+    ],
+    "imgName": ".png",
+    "itemName": "Niska Mk. I Gun Motor Carriage",
+    "itemClass": "Half-Track",
+    "itemDesc": "Designed for escort missions and to support infantry operations, the Niska Gun Motor Carriage Half-Track is an armored, versatile all-terrain vehicle equipped with a mounted machinegun.",
+    "itemCategory": "vehicles",
+    "numberProduced": 1,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "rmat": 180
+    }
+  },
+  {
+    "displayId": 26,
+    "faction": [
+      "colonial",
+      "warden"
+    ],
+    "imgName": "BMS_Scrap_Hauler.png",
+    "itemName": "BMS - Scrap Hauler",
+    "itemClass": "Harvester",
+    "itemDesc": "The Scrap Hauler, designed by the Bassett Motor Society is a heavy-duty piece of machinery designed to reduce scrap matal and other materials into usable, raw resources. Scrap Haulers are often used to extract battlefield resources following skirmishes.",
+    "itemCategory": "vehicles",
+    "numberProduced": 3,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "rmat": 360
+    }
+  },
+  {
+    "displayId": 27,
     "faction": [
       "colonial"
     ],
@@ -1905,7 +2097,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 28,
     "faction": [
       "colonial"
     ],
@@ -1922,7 +2114,24 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 29,
+    "faction": [
+      "warden"
+    ],
+    "imgName": ".png",
+    "itemName": "Mulloy LPC",
+    "itemClass": "Landing APC",
+    "itemDesc": "The Mulloy Landing Personnel Carrier is an armored amphibious vehicle designed for carrying troops across large bodies of water to aid in coordinated beach landings and flanking assaults.",
+    "itemCategory": "vehicles",
+    "numberProduced": 3,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "rmat": 60
+    }
+  },
+  {
+    "displayId": 30,
     "faction": [
       "colonial"
     ],
@@ -1940,7 +2149,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 31,
     "faction": [
       "colonial"
     ],
@@ -1957,7 +2166,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 32,
     "faction": [
       "colonial"
     ],
@@ -1974,7 +2183,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 33,
     "faction": [
       "colonial"
     ],
@@ -1991,7 +2200,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 34,
     "faction": [
       "colonial"
     ],
@@ -2009,14 +2218,14 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 35,
     "faction": [
       "colonial"
     ],
     "imgName": ".png",
     "itemName": "85k-a \"Spatha\"",
     "itemClass": "Assault Tank",
-    "itemDesc": "The \"Spatha\" assault tank features a unique and destructive 40mm turret that fires high-velocity shells. This specialized turret is not as well suited to mass-production as its more refined counterpart, the "Falchion."",
+    "itemDesc": "The \"Spatha\" assault tank features a unique and destructive 40mm turret that fires high-velocity shells. This specialized turret is not as well suited to mass-production as its more refined counterpart, the \"Falchion.\"",
     "itemCategory": "vehicles",
     "highVelocityBonus": "Equipped with a high velocity barrel that deals 20% extra damage per shot.",
     "numberProduced": 1,
@@ -2027,7 +2236,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 36,
     "faction": [
       "colonial"
     ],
@@ -2044,7 +2253,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 37,
     "faction": [
       "colonial"
     ],
@@ -2061,7 +2270,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 38,
     "faction": [
       "colonial"
     ],
@@ -2078,7 +2287,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 39,
     "faction": [
       "colonial"
     ],
@@ -2095,7 +2304,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 40,
     "faction": [
       "colonial"
     ],
@@ -2112,7 +2321,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 41,
     "faction": [
       "colonial"
     ],
@@ -2132,7 +2341,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 42,
     "faction": [
       "colonial"
     ],
@@ -2149,7 +2358,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 43,
     "faction": [
       "colonial"
     ],
@@ -2162,11 +2371,11 @@
     "isTeched": true,
     "isMpfCraftable": true,
     "cost": {
-      "bmat": 180,
+      "bmat": 180
     }
   },
   {
-    "displayId": ,
+    "displayId": 44,
     "faction": [
       "colonial"
     ],
@@ -2183,7 +2392,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 45,
     "faction": [
       "colonial"
     ],
@@ -2200,7 +2409,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 46,
     "faction": [
       "colonial"
     ],
@@ -2217,7 +2426,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 47,
     "faction": [
       "colonial"
     ],
@@ -2230,253 +2439,11 @@
     "isTeched": true,
     "isMpfCraftable": true,
     "cost": {
-      "bmat": 435,
-      "rmat":
+      "bmat": 435
     }
   },
   {
-    "displayId": ,
-    "faction": [
-      "warden"
-    ],
-    "imgName": ".png",
-    "itemName": "Dunne Responder 3e",
-    "itemClass": "Ambulance",
-    "itemDesc": "The Responder Ambulance is efficient at transporting Critically Wounded Soldiers and carrying medical supplies.",
-    "itemCategory": "vehicles",
-    "numberProduced": 3,
-    "isTeched": true,
-    "isMpfCraftable": true,
-    "cost": {
-      "bmat": 450
-    }
-  },
-  {
-    "displayId": ,
-    "faction": [
-      "warden"
-    ],
-    "imgName": ".png",
-    "itemName": "O'Brien v.121 Highlander",
-    "itemClass": "Armored Car",
-    "itemDesc": "Fitted with all-terrain treads, the Highlander brings significant all-terrain mobility and performs especially well in snowy and mountainous environments.",
-    "itemCategory": "vehicles",
-    "numberProduced": 1,
-    "isTeched": true,
-    "isMpfCraftable": true,
-    "cost": {
-      "rmat": 120
-    }
-  },
-  {
-    "displayId": ,
-    "faction": [
-      "warden"
-    ],
-    "imgName": ".png",
-    "itemName": "O'Brien v.101 Freeman",
-    "itemClass": "Armored Car",
-    "itemDesc": "This early O'Brein variant, the v.101 Freeman is fitted with a 360 degree ballistics cannon turret at the expense of top speed.",
-    "itemCategory": "vehicles",
-    "numberProduced": 3,
-    "isTeched": true,
-    "isMpfCraftable": true,
-    "cost": {
-      "rmat": 180
-    }
-  },
-  {
-    "displayId": ,
-    "faction": [
-      "warden"
-    ],
-    "imgName": ".png",
-    "itemName": "O'Brien v.110",
-    "itemClass": "Ambulance",
-    "itemDesc": "Warden Armoured Cars are quick, well-rounded urban assault platforms. These anti-infantry vehicles are equipped with twin-barrelled machineguns.",
-    "itemCategory": "vehicles",
-    "numberProduced": 1,
-    "isTeched": true,
-    "isMpfCraftable": true,
-    "cost": {
-      "rmat": 105
-    }
-  },
-  {
-    "displayId": ,
-    "faction": [
-      "warden"
-    ],
-    "imgName": ".png",
-    "itemName": "Dunne Caravaner 2F",
-    "itemClass": "Transport Bus",
-    "itemDesc": "The Caravaner is a transport vehicle used to shuttle personnel to the front line.",
-    "itemCategory": "vehicles",
-    "numberProduced": 3,
-    "isTeched": true,
-    "isMpfCraftable": true,
-    "cost": {
-      "bmat": 300
-    }
-  },
-  {
-    "displayId": ,
-    "faction": [
-      "warden"
-    ],
-    "imgName": ".png",
-    "itemName": "Noble Widow MK. XIV",
-    "itemClass": "Destroyer Tank",
-    "itemDesc": "This deadly tank turns predator into prey. A tank Destroyer, the Noble Widow specializes in ambush tactics, waiting for its quarry and striking with destructive high-velocity shells",
-    "itemCategory": "vehicles",
-    "highVelocityBonus": "Equipped with a high velocity barrel that deals 75% extra damage per shot.",
-    "numberProduced": 1,
-    "isTeched": true,
-    "isMpfCraftable": true,
-    "cost": {
-      "rmat": 480
-    }
-  },
-  {
-    "displayId": ,
-    "faction": [
-      "warden"
-    ],
-    "imgName": ".png",
-    "itemName": "Collins Cannon 68mm",
-    "itemClass": "Field AT Gun",
-    "itemDesc": "The Collins Cannon is a mobile Anti-Tank field gun firing 68mm armor-piercing rounds.",
-    "itemCategory": "vehicles",
-    "numberProduced": 1,
-    "isTeched": true,
-    "isMpfCraftable": true,
-    "cost": {
-      "rmat": 90
-    }
-  },
-  {
-    "displayId": ,
-    "faction": [
-      "warden"
-    ],
-    "imgName": ".png",
-    "itemName": "Balfour Rampart 40mm",
-    "itemClass": "Heavy Field Cannon",
-    "itemDesc": "The Rampart is a high-velocity, anti-armor field cannon capable of dealing devasting damage to all but the heaviest armored vehicles while providing its crew with comprehensive ballistic shielding.",
-    "itemCategory": "vehicles",
-    "highVelocityBonus": "Equipped with a high velocity barrel that deals 115% extra damage per shot.",
-    "numberProduced": 1,
-    "isTeched": true,
-    "isMpfCraftable": true,
-    "cost": {
-      "rmat": 120
-    }
-  },
-  {
-    "displayId": ,
-    "faction": [
-      "warden"
-    ],
-    "imgName": ".png",
-    "itemName": "Balfor Wolfhound 40mm",
-    "itemClass": "Field Cannon",
-    "itemDesc": "This destructive short-ranged cannon is designed for direct engagement with enemy fortifications. The Wolfhound is fitted with reinforced shielding and a 40mm barrel.",
-    "itemCategory": "vehicles",
-    "numberProduced": 1,
-    "isTeched": true,
-    "isMpfCraftable": true,
-    "cost": {
-      "rmat": 90
-    }
-  },
-  {
-    "displayId": ,
-    "faction": [
-      "warden"
-    ],
-    "imgName": ".png",
-    "itemName": "Swallowtail 988/127-2",
-    "itemClass": "Field Machine Gun",
-    "itemDesc": "A duel barrelled, high calibre anti-infantry machine gun. The Swallowtail is fitted with forward-facing armor plating and is excellent for suppression.",
-    "itemCategory": "vehicles",
-    "highVelocityBonus": "Equipped with a high velocity barrel that deals 20% extra damage per shot.",
-    "numberProduced": 3,
-    "isTeched": true,
-    "isMpfCraftable": true,
-    "cost": {
-      "rmat": 75
-    }
-  },
-  {
-    "displayId": ,
-    "faction": [
-      "warden"
-    ],
-    "imgName": ".png",
-    "itemName": "Balfour Falconer 250mm",
-    "itemClass": "Field Mortar",
-    "itemDesc": "A heavy mobile mortar platform fitted with a thick frontal sheild for assaulting fortified locations.",
-    "itemCategory": "vehicles",
-    "numberProduced": 3,
-    "isTeched": true,
-    "isMpfCraftable": true,
-    "cost": {
-      "rmat": 105
-    }
-  },
-  {
-    "displayId": ,
-    "faction": [
-      "warden"
-    ],
-    "imgName": ".png",
-    "itemName": "Niska Mk. II Blinder",
-    "itemClass": "Half-Track",
-    "itemDesc": "Fitted with a heavy-duty anti-tank gun, the Blinder is capable of punching through all but the most tempered of alloys.",
-    "itemCategory": "vehicles",
-    "numberProduced": 3,
-    "isTeched": true,
-    "isMpfCraftable": true,
-    "cost": {
-      "rmat": 255
-    }
-  },
-  {
-    "displayId": ,
-    "faction": [
-      "warden"
-    ],
-    "imgName": ".png",
-    "itemName": "Niska Mk. I Gun Motor Carriage",
-    "itemClass": "Half-Track",
-    "itemDesc": "Designed for escort missions and to support infantry operations, the Niska Gun Motor Carriage Half-Track is an armored, versatile all-terrain vehicle equipped with a mounted machinegun.",
-    "itemCategory": "vehicles",
-    "numberProduced": 1,
-    "isTeched": true,
-    "isMpfCraftable": true,
-    "cost": {
-      "rmat": 180
-    }
-  },
-  {
-    "displayId": ,
-    "faction": [
-      "warden"
-    ],
-    "imgName": ".png",
-    "itemName": "Mulloy LPC",
-    "itemClass": "Landing APC",
-    "itemDesc": "The Mulloy Landing Personnel Carrier is an armored amphibious vehicle designed for carrying troops across large bodies of water to aid in coordinated beach landings and flanking assaults.",
-    "itemCategory": "vehicles",
-    "numberProduced": 3,
-    "isTeched": true,
-    "isMpfCraftable": true,
-    "cost": {
-      "rmat": 60
-    }
-  },
-  {
-    "displayId": ,
+    "displayId": 48,
     "faction": [
       "warden"
     ],
@@ -2493,7 +2460,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 49,
     "faction": [
       "warden"
     ],
@@ -2510,7 +2477,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 50,
     "faction": [
       "warden"
     ],
@@ -2527,7 +2494,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 51,
     "faction": [
       "warden"
     ],
@@ -2545,7 +2512,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 52,
     "faction": [
       "warden"
     ],
@@ -2558,12 +2525,11 @@
     "isTeched": true,
     "isMpfCraftable": true,
     "cost": {
-      "rmat": 510,
-      "bmat": 
+      "rmat": 510
     }
   },
   {
-    "displayId": ,
+    "displayId": 53,
     "faction": [
       "warden"
     ],
@@ -2580,7 +2546,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 54,
     "faction": [
       "warden"
     ],
@@ -2597,7 +2563,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 55,
     "faction": [
       "warden"
     ],
@@ -2614,7 +2580,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 56,
     "faction": [
       "warden"
     ],
@@ -2631,7 +2597,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 57,
     "faction": [
       "warden"
     ],
@@ -2648,7 +2614,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 58,
     "faction": [
       "warden"
     ],
@@ -2665,7 +2631,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 59,
     "faction": [
       "warden"
     ],
@@ -2682,7 +2648,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 60,
     "faction": [
       "warden"
     ],
@@ -2699,7 +2665,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 61,
     "faction": [
       "warden"
     ],
@@ -2716,7 +2682,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 62,
     "faction": [
       "warden"
     ],
@@ -2733,7 +2699,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 63,
     "faction": [
       "warden"
     ],
@@ -2749,25 +2715,8 @@
       "bmat": 300
     }
   },
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
   {
-    "displayId": ,
+    "displayId": 64,
     "faction": [
       "colonial",
       "warden"
@@ -2785,7 +2734,25 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 65,
+    "faction": [
+      "colonial",
+      "warden"
+    ],
+    "imgName": "BMS_Ironship.png",
+    "itemName": "BMS - Ironship",
+    "itemClass": "Freighter",
+    "itemDesc": "The Basset Motor Society's Ironship-class shipping vessel is used to freight shippable goods and heavy vehicles.",
+    "itemCategory": "vehicles",
+    "numberProduced": 3,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 1500
+    }
+  },
+  {
+    "displayId": 66,
     "faction": [
       "colonial"
     ],
@@ -2802,7 +2769,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 67,
     "faction": [
       "warden"
     ],
@@ -2819,7 +2786,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 68,
     "faction": [
       "warden"
     ],
@@ -2837,7 +2804,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 69,
     "faction": [
       "colonial",
       "warden"
@@ -2855,7 +2822,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 70,
     "faction": [
       "colonial",
       "warden"
@@ -2873,7 +2840,7 @@
     }
   },
   {
-    "displayId": ,
+    "displayId": 71,
     "faction": [
       "colonial",
       "warden"
