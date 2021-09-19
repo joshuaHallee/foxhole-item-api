@@ -1126,6 +1126,7 @@
     "itemDesc": "An optical instrument used for viewing distant objects.",
     "itemCategory": "utilities",
     "numberProduced": 5,
+    "isMpfCraftable": false,
     "isTeched": true,
     "cost": {
       "bmat": 75
@@ -1142,6 +1143,7 @@
     "itemDesc": "Protects against poison gas.",
     "itemCategory": "utilities",
     "numberProduced": 20,
+    "isMpfCraftable": false,
     "isTeched": true,
     "cost": {
       "bmat": 160
@@ -1158,6 +1160,7 @@
     "itemDesc": "When attached to a gas mask, this filter provides fresh air to the wearer.",
     "itemCategory": "utilities",
     "numberProduced": 20,
+    "isMpfCraftable": false,
     "isTeched": false,
     "cost": {
       "bmat": 100
@@ -1174,6 +1177,7 @@
     "itemDesc": "A multipurpose tool. Can be used to dismantle mines/barbed wire and unlock vehicles.",
     "itemCategory": "utilities",
     "numberProduced": 5,
+    "isMpfCraftable": false,
     "isTeched": false,
     "cost": {
       "bmat": 75
@@ -1190,6 +1194,7 @@
     "itemDesc": "Receives map intelligence updates.",
     "itemCategory": "utilities",
     "numberProduced": 5,
+    "isMpfCraftable": false,
     "isTeched": false,
     "cost": {
       "bmat": 100
@@ -1206,6 +1211,7 @@
     "itemDesc": "Automatically gathers map intel periodically when equipped. The radio backpack is also used to transmit other sensitive information across long distances.",
     "itemCategory": "utilities",
     "numberProduced": 5,
+    "isMpfCraftable": false,
     "isTeched": true,
     "cost": {
       "bmat": 150
@@ -1223,6 +1229,7 @@
     "itemCategory": "utilities",
     "itemClass": "Bayonet",
     "numberProduced": 20,
+    "isMpfCraftable": false,
     "isTeched": true,
     "cost": {
       "bmat": 40
@@ -1239,6 +1246,7 @@
     "itemCategory": "utilities",
     "itemClass": "Explosive",
     "numberProduced": 5,
+    "isMpfCraftable": false,
     "isTeched": true,
     "damageType": "Deals demolition damage",
     "damageDesc": "Destroys obstacles that can otherwise only be dismantled with Wrenches",
@@ -1259,6 +1267,7 @@
     "itemCategory": "utilities",
     "itemClass": "Satchel Charge",
     "numberProduced": 5,
+    "isMpfCraftable": false,
     "isTeched": true,
     "damageType": "Deals demolition damage",
     "cost": {
@@ -1276,6 +1285,7 @@
     "itemName": "Sledge Hammer",
     "itemDesc": "A tool used to salvage components from remains of old vehicles and equipment.",
     "itemCategory": "utilities",
+    "isMpfCraftable": false,
     "numberProduced": 10,
     "isTeched": true,
     "cost": {
@@ -1296,6 +1306,7 @@
     "numberProduced": 10,
     "damageType": "Deal anti-tank explosive damage",
     "damageDesc": "Always disables the track subsystem",
+    "isMpfCraftable": false,
     "isTeched": false,
     "cost": {
       "bmat": 100,
@@ -1313,6 +1324,7 @@
     "itemDesc": "A booster engine that provides thrust for launching ballistic rockets to long distant targets.",
     "itemCategory": "utilities",
     "numberProduced": 1,
+    "isMpfCraftable": false,
     "isTeched": true,
     "cost": {
       "rmat": 800
@@ -1329,6 +1341,7 @@
     "itemDesc": "A tool for digging trenches and other entrenched structures.",
     "itemCategory": "utilities",
     "numberProduced": 10,
+    "isMpfCraftable": false,
     "isTeched": false,
     "cost": {
       "bmat": 200
@@ -1345,6 +1358,7 @@
     "itemDesc": "A mount point for deployable infantry weapons and equipment.",
     "itemCategory": "utilities",
     "numberProduced": 5,
+    "isMpfCraftable": false,
     "isTeched": false,
     "cost": {
       "bmat": 100
@@ -1361,6 +1375,7 @@
     "itemDesc": "Used to stem bleeding.",
     "itemCategory": "medical",
     "numberProduced": 80,
+    "isMpfCraftable": false,
     "isTeched": false,
     "cost": {
       "bmat": 160
@@ -1377,6 +1392,7 @@
     "itemDesc": "Used by medics to heal other soldiers.",
     "itemCategory": "medical",
     "numberProduced": 10,
+    "isMpfCraftable": false,
     "isTeched": true,
     "cost": {
       "bmat": 60
@@ -1393,6 +1409,7 @@
     "itemDesc": "Used by medics to revive wounded soldiers.",
     "itemCategory": "medical",
     "numberProduced": 10,
+    "isMpfCraftable": false,
     "isTeched": true,
     "cost": {
       "bmat": 80
@@ -1409,6 +1426,7 @@
     "itemDesc": "A blood component used to treat wounded soldiers on the battlefield.",
     "itemCategory": "medical",
     "numberProduced": 80,
+    "isMpfCraftable": false,
     "isTeched": false,
     "cost": {
       "bmat": 80
@@ -1425,6 +1443,7 @@
     "itemDesc": "A standard issue set of supplies for foot soldiers. Bases must be stockpiled with soldier supplies in order for players to spawn.",
     "itemCategory": "supplies",
     "numberProduced": 10,
+    "isMpfCraftable": false,
     "isTeched": false,
     "cost": {
       "bmat": 80
@@ -1441,6 +1460,7 @@
     "itemDesc": "Supplies for maintaining structures. Store at bases to prevent decay on surrounding structures.",
     "itemCategory": "supplies",
     "numberProduced": 150,
+    "isMpfCraftable": false,
     "isTeched": true,
     "cost": {
       "bmat": 75
@@ -1457,6 +1477,7 @@
     "itemDesc": "Supplies for maintaining structures. Store at bases to prevent decay on surrounding bunker/trench structures when garrison supplies are not available.",
     "itemCategory": "supplies",
     "numberProduced": 150,
+    "isMpfCraftable": false,
     "isTeched": true,
     "cost": {
       "bmat": 75
