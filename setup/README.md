@@ -17,7 +17,7 @@ npm install
 ```
 
 ## Populate a MongoDB Server
-Create a new database and a collection called **items**. All item records can be located in [foxhole-db.json](./foxhole-db.json). Import this file into your  collection called **items** as JSON data.
+Create a new database and a collection called **items**. All item records can be located in [foxhole-db.json](./foxhole-db.json). Import this file into your  collection, called **items**, as JSON data.
 
 ## Notice About Images
 All images found within the images folder, with exclusion to placeholder images, belong to [Siege Camp](https://www.siegecamp.com/) and were obtained through the [Foxhole Wiki](https://foxhole.fandom.com/wiki/Foxhole_Wiki).
