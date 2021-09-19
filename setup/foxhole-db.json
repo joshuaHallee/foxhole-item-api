@@ -880,7 +880,7 @@
     "numberProduced": 5,
     "damageType": "Deals demolition damage",
     "isTeched": false,
-    "isMpfCraftable": true,
+    "isMpfCraftable": false,
     "cost": {
       "bmat": 135,
       "hemat": 30
