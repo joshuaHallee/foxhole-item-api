@@ -17,7 +17,7 @@ npm install
 ```
 
 ## Populate a MongoDB Server
-Create a new database and new collection. All item records can be located in [foxhole-db.json](./foxhole-db.json). Import this file into your collection as JSON data.
+Create a new database and a collection called **items**. All item records can be located in [foxhole-db.json](./foxhole-db.json). Import this file into your  collection called **items** as JSON data.
 
 ## Notice About Images
 All images found within the images folder, with exclusion to placeholder images, belong to [Siege Camp](https://www.siegecamp.com/) and were obtained through the [Foxhole Wiki](https://foxhole.fandom.com/wiki/Foxhole_Wiki).
@@ -25,7 +25,7 @@ All images found within the images folder, with exclusion to placeholder images,
 This API setup folder contains item [images](./images), but will not host them through the API and never will. You will need to provide a solution for yourself for image hosting.
 
 ## Add .env File
-Example .env file structure with placeholder values. Update as needed.
+Example .env file structure with placeholder values. Update the mongodb URI with the new database name.
 
 ```
 PORT=3001

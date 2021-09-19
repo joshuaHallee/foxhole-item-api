@@ -1,7 +1,7 @@
 # Foxhole Item API
 An unofficial Item API for the game Foxhole. Contains information on items such as name, descriptions, costs, categories, ect.
 
-[Foxhole](https://www.foxholegame.com/) is a registered trademark of [Siege Camp](https://www.siegecamp.com/)
+[Foxhole](https://www.foxholegame.com/) is a registered trademark of [Siege Camp](https://www.siegecamp.com/).
 
 ## Installation
 For additional information on installation for your project, view [installation guide](./setup/README.md).
@@ -38,7 +38,7 @@ Overview of all available fields, with short description.
 ```
 
 ## Supported Queries
-See API Paths for faction specific queries
+See API Paths for faction specific queries.
 ```YAML
 itemCategory: String | get items from a specific category,
 isMpfCraftable: Bool | can an item be crafted in a mpf
@@ -74,7 +74,7 @@ General examples of URL structures and available queries. Both `itemCategory` an
 
 <br />
 
-Example of getting all items from both factions, that are in heavy_arms category, that are NOT craftable in mpf
+Example of getting all items from both factions, that are in heavy_arms category, that are NOT able to be crafted in mpf.
 ```
 GET /api/v1/items?itemCategory=heavy_arms&isMpfCraftable=false
 ```
@@ -110,7 +110,7 @@ Example of getting only Warden items, that are in the shippable category.
 GET /api/v1/items/warden?itemCategory=shipables
 ```
 ```JSON
-Some results are ommitted for this example due to length. Returned 7 results.
+Some results are omitted for this example due to length. Returned 7 results.
 [
     {
         "cost": {
@@ -155,7 +155,7 @@ Some results are ommitted for this example due to length. Returned 7 results.
 <br />
 
 # Contributing & Issues
-Contributions are more than appeciated, no matter how big or small the contribution is.
+Contributions are more than appreciated, no matter how big or small the contribution is.
 
 If you fix a bug or add a cool feature, please submit a [pull request](https://github.com/joshuaHallee/foxhole-item-api/compare).
 
