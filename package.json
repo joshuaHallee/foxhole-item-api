@@ -1,0 +1,23 @@
+{
+  "name": "foxhole-item-api",
+  "version": "1.0.0",
+  "description": "API for items found in the Foxhole game.",
+  "main": "app.js",
+  "scripts": {
+    "start": "cross-env NODE_ENV=production node app",
+    "dev": "cross-env NODE_ENV=development nodemon app"
+  },
+  "keywords": [
+    "Foxhole",
+    "Foxhole Game",
+    "API"
+  ],
+  "author": "Joshua Hallee",
+  "license": "ISC",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.7"
+  }
+}
