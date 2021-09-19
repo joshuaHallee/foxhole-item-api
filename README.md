@@ -4,7 +4,7 @@ An unofficial Item API for the game Foxhole. Contains information on items such 
 [Foxhole](https://www.foxholegame.com/) is a registered trademark of [Siege Camp](https://www.siegecamp.com/).
 
 ## Installation
-For additional information on installation for your project, view [installation guide](./setup/README.md).
+For additional information on installation for your project, view the [installation guide](./setup/README.md).
 
 ## Item Fields
 Overview of all available fields, with short description.
