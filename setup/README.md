@@ -29,7 +29,7 @@ Example .env file structure with placeholder values. Update the mongodb URI with
 
 ```
 PORT=3001
-MONGO_URI=mongodb://localhost:27017/foxhole-items-api
+MONGO_URI=mongodb://localhost:27017/foxhole-item-api
 ```
 
 ## Start Server
