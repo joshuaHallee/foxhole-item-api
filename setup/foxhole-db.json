@@ -691,24 +691,6 @@
     }
   },
   {
-    "displayId": 12,
-    "faction": [
-      "colonial",
-      "warden"
-    ],
-    "imgName": "14_5mm.png",
-    "itemName": "14.5mm",
-    "itemDesc": "Standard ammunition for Field machine guns and gunboats.",
-    "itemCategory": "heavy_arms",
-    "numberProduced": 20,
-    "damageType": "Deals heavy kinetic damage",
-    "isTeched": false,
-    "isMpfCraftable": true,
-    "cost": {
-      "bmat": 100
-    }
-  },
-  {
     "displayId": 13,
     "faction": [
       "warden"
