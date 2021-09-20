@@ -2374,7 +2374,7 @@
     "isTeched": true,
     "isMpfCraftable": true,
     "cost": {
-      "bmat": 180
+      "rmat": 180
     }
   },
   {
