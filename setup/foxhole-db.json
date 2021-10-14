@@ -2,6 +2,42 @@
   {
     "displayId": 0,
     "faction": [
+      "warden"
+    ],
+    "imgName": "Cascadier_873.png",
+    "itemName": "Cascadier 873",
+    "itemDesc": "This unique sidearm fires in three-round bursts. The Cascadier may not have the stopping power of its cousins, but it more than makes up for it with its lightweight frame, concealability, and fire rate.",
+    "itemCategory": "small_arms",
+    "itemClass": "Pistol",
+    "ammoUsed": "8mm",
+    "numberProduced": 20,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 60
+    }
+  },
+  {
+    "displayId": 1,
+    "faction": [
+      "colonial",
+      "warden"
+    ],
+    "imgName": "8mm.png",
+    "itemName": "8mm",
+    "itemDesc": "Standard ammunition for pistols.",
+    "itemCategory": "small_arms",
+    "numberProduced": 40,
+    "damageType": "Deals light kinetic damage",
+    "isTeched": false,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 40
+    }
+  },  
+  {
+    "displayId": 2,
+    "faction": [
       "colonial",
       "warden"
     ],
@@ -19,7 +55,25 @@
     }
   },
   {
-    "displayId": 1,
+    "displayId": 3,
+    "faction": [
+      "warden"
+    ],
+    "imgName": "The_Hangman_757.png",
+    "itemName": "The Hangman 757",
+    "itemDesc": "The weapon of choice for pirates and smugglers, its legend is well-earned. With incredibly high stopping power and unique revolver mechanism, the Hangman often playes judge, jury, and executioner.",
+    "itemCategory": "small_arms",
+    "itemClass": "Heavy Rifle",
+    "ammoUsed": ".44",
+    "numberProduced": 20,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 125
+    }
+  },
+  {
+    "displayId": 4,
     "faction": [
       "colonial",
       "warden"
@@ -37,7 +91,7 @@
     }
   },
   {
-    "displayId": 2,
+    "displayId": 5,
     "faction": [
       "warden"
     ],
@@ -55,7 +109,7 @@
     }
   },
   {
-    "displayId": 3,
+    "displayId": 6,
     "faction": [
       "warden"
     ],
@@ -73,7 +127,43 @@
     }
   },
   {
-    "displayId": 4,
+    "displayId": 7,
+    "faction": [
+      "warden"
+    ],
+    "imgName": "Clancy_Cinder_M3.png",
+    "itemName": "Clancy Cinder M3",
+    "itemDesc": "The Clancy Cinder is a classic, high-powered long rifle designed for use in mid-to-long range encounters. First deployed with the Hands during a high-risk operation in Acrithia.",
+    "itemCategory": "small_arms",
+    "itemClass": "Long Rifle",
+    "ammoUsed": "7.62mm",
+    "numberProduced": 15,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 130
+    }
+  },
+  {
+    "displayId": 8,
+    "faction": [
+      "warden"
+    ],
+    "imgName": "Sampo_Auto_Rifle_77.png",
+    "itemName": "Sampo Auto-Rifle 77",
+    "itemDesc": "The precursor to the storm rifle, the Sampo Auto-Rifle, is a mastercraft of its day. With a single shot and automatic fire mode, this versatile rifle may not reach the fire rates of automatic weapons but more than makes up for it with utility.",
+    "itemCategory": "small_arms",
+    "itemClass": "Rifle",
+    "ammoUsed": "7.62mm",
+    "numberProduced": 20,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 125
+    }
+  },
+  {
+    "displayId": 9,
     "faction": [
       "colonial"
     ],
@@ -91,7 +181,7 @@
     }
   },
   {
-    "displayId": 5,
+    "displayId": 10,
     "faction": [
       "colonial"
     ],
@@ -109,7 +199,43 @@
     }
   },
   {
-    "displayId": 6,
+    "displayId": 11,
+    "faction": [
+      "colonial"
+    ],
+    "imgName": "KRR2_790_Omen.png",
+    "itemName": "KRR2-790 Omen",
+    "itemDesc": "An older but reliable model of Kraunian long rifle. The Omen is a sturdy, simple weapon best used in long-distance skirmishes.",
+    "itemCategory": "small_arms",
+    "itemClass": "Long Rifle",
+    "ammoUsed": "7.62mm",
+    "numberProduced": 15,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 155
+    }
+  },
+  {
+    "displayId": 12,
+    "faction": [
+      "colonial"
+    ],
+    "imgName": "Volta_r_I_Repeater.png",
+    "itemName": "Volta r.I Repeater",
+    "itemDesc": "An old war Mesean rifle. It boasts high stopping power, but not as accurate as its modern variant. A weapon of legend, the Howling Lions wielded the Volta during their raid on the beaches of Fisherman's Row.",
+    "itemCategory": "small_arms",
+    "itemClass": "Heavy Rifle",
+    "ammoUsed": "7.62mm",
+    "numberProduced": 15,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 100
+    }
+  },
+  {
+    "displayId": 13,
     "faction": [
       "colonial",
       "warden"
@@ -127,7 +253,7 @@
     }
   },
   {
-    "displayId": 7,
+    "displayId": 14,
     "faction": [
       "warden"
     ],
@@ -145,7 +271,7 @@
     }
   },
   {
-    "displayId": 8,
+    "displayId": 15,
     "faction": [
       "warden"
     ],
@@ -163,7 +289,7 @@
     }
   },
   {
-    "displayId": 9,
+    "displayId": 16,
     "faction": [
       "colonial"
     ],
@@ -181,7 +307,7 @@
     }
   },
   {
-    "displayId": 10,
+    "displayId": 17,
     "faction": [
       "colonial"
     ],
@@ -199,7 +325,7 @@
     }
   },
   {
-    "displayId": 11,
+    "displayId": 18,
     "faction": [
       "colonial",
       "warden"
@@ -217,7 +343,7 @@
     }
   },
   {
-    "displayId": 12,
+    "displayId": 19,
     "faction": [
       "colonial",
       "warden"
@@ -236,7 +362,7 @@
     }
   },
   {
-    "displayId": 13,
+    "displayId": 20,
     "faction": [
       "colonial",
       "warden"
@@ -254,7 +380,7 @@
     }
   },
   {
-    "displayId": 14,
+    "displayId": 21,
     "faction": [
       "warden"
     ],
@@ -272,7 +398,7 @@
     }
   },
   {
-    "displayId": 15,
+    "displayId": 22,
     "faction": [
       "warden"
     ],
@@ -290,7 +416,7 @@
     }
   },
   {
-    "displayId": 16,
+    "displayId": 23,
     "faction": [
       "colonial"
     ],
@@ -308,7 +434,7 @@
     }
   },
   {
-    "displayId": 17,
+    "displayId": 24,
     "faction": [
       "colonial"
     ],
@@ -326,7 +452,7 @@
     }
   },
   {
-    "displayId": 18,
+    "displayId": 25,
     "faction": [
       "colonial",
       "warden"
@@ -344,7 +470,7 @@
     }
   },
   {
-    "displayId": 19,
+    "displayId": 26,
     "faction": [
       "warden"
     ],
@@ -363,7 +489,7 @@
     }
   },
   {
-    "displayId": 20,
+    "displayId": 27,
     "faction": [
       "colonial"
     ],
@@ -382,7 +508,7 @@
     }
   },
   {
-    "displayId": 21,
+    "displayId": 28,
     "faction": [
       "colonial",
       "warden"
@@ -400,7 +526,61 @@
     }
   },
   {
-    "displayId": 22,
+    "displayId": 29,
+    "faction": [
+      "colonial"
+    ],
+    "imgName": "KRN886_127_Gast_Machine_Gun.png",
+    "itemName": "KRN886-127 Gast Machine Gun",
+    "itemDesc": "The Gast is a deadly but cumbersome Kraunian heavy machine gun. It is best suited to holding and defending established fortifications or garrisoned structures against encroaching infantry.",
+    "itemCategory": "small_arms",
+    "itemClass": "Machine Gun",
+    "ammoUsed": "12.7mm",
+    "numberProduced": 10,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "damageType": "Deals heavy kinetic damage",
+    "cost": {
+      "rmat": 30
+    }
+  },
+  {
+    "displayId": 30,
+    "faction": [
+      "warden"
+    ],
+    "imgName": "Malone_MK_2.png",
+    "itemName": "Malone MK.2",
+    "itemDesc": "This heavy machine gun is bulky enough to require a steady surface to maintain stability. The Malone series of machine guns are unmatched defenders on the battlefield.",
+    "itemCategory": "small_arms",
+    "itemClass": "Machine Gun",
+    "ammoUsed": "12.7mm",
+    "numberProduced": 10,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "rmat": 30
+    }
+  },
+  {
+    "displayId": 31,
+    "faction": [
+      "colonial",
+      "warden"
+    ],
+    "imgName": "12_7mm.png",
+    "itemName": "12.7mm",
+    "itemDesc": "Standard ammunition for all machine guns, including vehicle mounted weapons like those on the half-track and battle tank.",
+    "itemCategory": "small_arms",
+    "numberProduced": 20,
+    "isTeched": false,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 100
+    }
+  },
+  {
+    "displayId": 32,
     "faction": [
       "colonial",
       "warden"
@@ -418,280 +598,7 @@
     }
   },
   {
-    "displayId": 23,
-    "faction": [
-      "warden"
-    ],
-    "imgName": "Cascadier_873.png",
-    "itemName": "Cascadier 873",
-    "itemDesc": "This unique sidearm fires in three-round bursts. The Cascadier may not have the stopping power of its cousins, but it more than makes up for it with its lightweight frame, concealability, and fire rate.",
-    "itemCategory": "small_arms",
-    "itemClass": "Pistol",
-    "ammoUsed": "8mm",
-    "numberProduced": 20,
-    "isTeched": true,
-    "isMpfCraftable": true,
-    "cost": {
-      "bmat": 60
-    }
-  },
-  {
-    "displayId": 24,
-    "faction": [
-      "colonial",
-      "warden"
-    ],
-    "imgName": "8mm.png",
-    "itemName": "8mm",
-    "itemDesc": "Standard ammunition for pistols.",
-    "itemCategory": "small_arms",
-    "numberProduced": 40,
-    "damageType": "Deals light kinetic damage",
-    "isTeched": false,
-    "isMpfCraftable": true,
-    "cost": {
-      "bmat": 40
-    }
-  },
-  {
     "displayId": 0,
-    "faction": [
-      "colonial"
-    ],
-    "imgName": "KRN886_127_Gast_Machine_Gun.png",
-    "itemName": "KRN886-127 Gast Machine Gun",
-    "itemDesc": "The Gast is a deadly but cumbersome Kraunian heavy machine gun. It is best suited to holding and defending established fortifications or garrisoned structures against encroaching infantry.",
-    "itemCategory": "heavy_arms",
-    "itemClass": "Machine Gun",
-    "ammoUsed": "12.7mm",
-    "numberProduced": 10,
-    "isTeched": true,
-    "isMpfCraftable": true,
-    "damageType": "Deals heavy kinetic damage",
-    "cost": {
-      "rmat": 30
-    }
-  },
-  {
-    "displayId": 1,
-    "faction": [
-      "colonial",
-      "warden"
-    ],
-    "imgName": "12_7mm.png",
-    "itemName": "12.7mm",
-    "itemDesc": "Standard ammunition for all machine guns, including vehicle mounted weapons like those on the half-track and battle tank.",
-    "itemCategory": "heavy_arms",
-    "numberProduced": 20,
-    "isTeched": false,
-    "isMpfCraftable": true,
-    "cost": {
-      "bmat": 100
-    }
-  },
-  {
-    "displayId": 2,
-    "faction": [
-      "colonial",
-      "warden"
-    ],
-    "imgName": "Cremari_Mortar.png",
-    "itemName": "Cremari Mortar",
-    "itemDesc": "This short-range cannon is designed to bombard enemy infantry with indirect fire.",
-    "itemCategory": "heavy_arms",
-    "itemClass": "Mortar",
-    "ammoUsed": "Mortar Shell, Mortar Shrapnel Shell, Mortar Flare Shell",
-    "numberProduced": 5,
-    "isTeched": true,
-    "isMpfCraftable": true,
-    "cost": {
-      "bmat": 100,
-      "rmat": 25
-    }
-  },
-  {
-    "displayId": 3,
-    "faction": [
-      "colonial",
-      "warden"
-    ],
-    "imgName": "Mortar_Shell.png",
-    "itemName": "Mortar Shell",
-    "itemDesc": "An explosive projectile fired from a mortar.",
-    "itemCategory": "heavy_arms",
-    "numberProduced": 15,
-    "damageType": "Deals high explosive damage",
-    "damageDesc": "Reduced damage against trenches",
-    "isTeched": false,
-    "isMpfCraftable": true,
-    "cost": {
-      "bmat": 60,
-      "emat": 35
-    }
-  },
-  {
-    "displayId": 4,
-    "faction": [
-      "colonial",
-      "warden"
-    ],
-    "imgName": "Mortar_Shell.png",
-    "itemName": "Mortar Shrapnel Shell",
-    "itemDesc": "A shell that explodes into shrapnel on impact, devastating nearby infantry.",
-    "itemCategory": "heavy_arms",
-    "numberProduced": 15,
-    "isTeched": true,
-    "damageType": "Deals shrapnel damage",
-    "damageDesc": "Always causes target to bleed",
-    "isMpfCraftable": true,
-    "cost": {
-      "bmat": 60,
-      "emat": 15
-    }
-  },
-  {
-    "displayId": 5,
-    "faction": [
-      "colonial",
-      "warden"
-    ],
-    "imgName": "Mortar_Shell.png",
-    "itemName": "Mortar Flare Shell",
-    "itemDesc": "A shell that ignites midair and illuminates a large area, revealing enemy targets.",
-    "itemCategory": "heavy_arms",
-    "numberProduced": 15,
-    "isTeched": true,
-    "isMpfCraftable": true,
-    "cost": {
-      "bmat": 60,
-      "emat": 10
-    }
-  },
-  {
-    "displayId": 6,
-    "faction": [
-      "colonial",
-      "warden"
-    ],
-    "imgName": "Green_Ash_Grenade.png",
-    "itemName": "Green Ash Grenade",
-    "itemDesc": "Green ash is an asphyxiating toxin. Inhaling it without protection will result in a quick death. Be sure to wear a gas mask with fresh filters when handling green ash.",
-    "itemCategory": "heavy_arms",
-    "itemClass": "Gas Grenade",
-    "numberProduced": 20,
-    "isTeched": true,
-    "damageType": "Deals poisonous gas damage",
-    "damageDesc": "Causes damage over time",
-    "isMpfCraftable": true,
-    "cost": {
-      "bmat": 140
-    }
-  },
-  {
-    "displayId": 7,
-    "faction": [
-      "warden"
-    ],
-    "imgName": "Cutler_Launcher_4.png",
-    "itemName": "Cutler Launcher 4",
-    "itemDesc": "The Cutler Launcher is capable of firing and unguided, rocket-propelled grenade over short distances with startling efficiency. Its simple design allows for easy deployment and storage.",
-    "itemCategory": "heavy_arms",
-    "itemClass": "RPG",
-    "ammoUsed": "R.P.G. Shell",
-    "damageType": "Deals explosive damage",
-    "damageDesc": "Can penetrate armored vehicles",
-    "vehiclePen": "Damage to the sides and rear of armored vehicles have a higher chance to penetrate at close range and at direct angles.",
-    "numberProduced": 5,
-    "isTeched": true,
-    "isMpfCraftable": true,
-    "cost": {
-      "bmat": 100,
-      "rmat": 25
-    }
-  },
-  {
-    "displayId": 8,
-    "faction": [
-      "colonial",
-      "warden"
-    ],
-    "imgName": "R_P_G_Shell.png",
-    "itemName": "R.P.G Shell",
-    "itemDesc": "An explosive projectile fired from an R.P.G.",
-    "itemCategory": "heavy_arms",
-    "numberProduced": 15,
-    "damageType": "Deals explosive damage",
-    "damageDesc": "Can penetrate armored vehicles",
-    "vehiclePen": "Damage to the sides and rear of armored vehicles have a higher chance to penetrate at close range and at direct angles.",
-    "isTeched": false,
-    "isMpfCraftable": true,
-    "cost": {
-      "bmat": 60,
-      "emat": 75
-    }
-  },
-  {
-    "displayId": 9,
-    "faction": [
-      "colonial",
-      "warden"
-    ],
-    "imgName": "Anti_Tank_Sticky_Bomb.png",
-    "itemName": "Anti-Tank Sticky Bomb",
-    "itemDesc": "An adherable grenade designed to penetrate heavy tank armor. The sticky bomb can only be thrown a short distance and is ineffective against structures.",
-    "itemCategory": "heavy_arms",
-    "numberProduced": 10,
-    "damageType": "Deals anti-tank explosive damage",
-    "damageDesc": "High chance of disabling Track subsystem",
-    "isTeched": false,
-    "isMpfCraftable": true,
-    "cost": {
-      "bmat": 50,
-      "emat": 50
-    }
-  },
-  {
-    "displayId": 10,
-    "faction": [
-      "warden"
-    ],
-    "imgName": "BF5_White_Ash_Flask_Grenade.png",
-    "itemName": "BF5 White Ash Flask Grenade",
-    "itemDesc": "An explosive flask used for melting enemy armor. This carefully designed liquid bomb explodes into a dazzling flash of molten debris upon impact.",
-    "itemCategory": "heavy_arms",
-    "itemClass": "Anti-Tank Grenade",
-    "damageType": "Deals anti-tank explosive damage",
-    "damageDesc": "High chance of disabling Track subsystem",
-    "numberProduced": 15,
-    "isTeched": true,
-    "isMpfCraftable": true,
-    "cost": {
-      "bmat": 100,
-      "emat": 50
-    }
-  },
-  {
-    "displayId": 11,
-    "faction": [
-      "colonial",
-      "warden"
-    ],
-    "imgName": "Mammon_91_b.png",
-    "itemName": "Mammon 91-b",
-    "itemDesc": "This densely packed, high-explosive grenade is designed to damage structures and vehicles.",
-    "itemCategory": "heavy_arms",
-    "itemClass": "HE Grenade",
-    "numberProduced": 25,
-    "damageType": "Deals explosive damage",
-    "isTeched": false,
-    "isMpfCraftable": true,
-    "cost": {
-      "bmat": 100,
-      "emat": 10
-    }
-  },
-  {
-    "displayId": 13,
     "faction": [
       "warden"
     ],
@@ -709,7 +616,7 @@
     }
   },
   {
-    "displayId": 14,
+    "displayId": 1,
     "faction": [
       "colonial",
       "warden"
@@ -729,66 +636,46 @@
     }
   },
   {
-    "displayId": 15,
+    "displayId": 2,
+    "faction": [
+      "colonial"
+    ],
+    "imgName": "Daucus_isg_III.png",
+    "itemName": "Daucus isg.III",
+    "itemDesc": "This heavy infantry cannon requires a tripod for stability. The Daucus is designed to give infantry a foothold against enemy vehicles and light fortifications or established fortified garrisons.",
+    "itemCategory": "heavy_arms",
+    "itemClass": "Infantry Support Gun",
+    "ammoUsed": "30mm",
+    "numberProduced": 5,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 150
+    }
+  },
+  {
+    "displayId": 3,
     "faction": [
       "colonial",
       "warden"
     ],
-    "imgName": "120mm.png",
-    "itemName": "120mm",
-    "itemDesc": "Payload for light artillery weapons.",
+    "imgName": "30mm.png",
+    "itemName": "30mm",
+    "itemDesc": "Standard explosive shell for small vehicles or infantry weapons.",
     "itemCategory": "heavy_arms",
-    "numberProduced": 5,
-    "damageType": "Deals high explosive damage",
-    "damageDesc": "Reduced damage against trenches",
-    "isTeched": false,
-    "isMpfCraftable": true,
-    "cost": {
-      "bmat": 60,
-      "emat": 15
-    }
-  },
-  {
-    "displayId": 16,
-    "faction": [
-      "colonial",
-      "warden"
-    ],
-    "imgName": "150mm.png",
-    "itemName": "150mm",
-    "itemDesc": "Payload for heavy artillery weapons.",
-    "itemCategory": "heavy_arms",
-    "numberProduced": 5,
-    "damageType": "Deals high explosive damage",
-    "damageDesc": "Reduced damage against trenches",
-    "isTeched": false,
-    "isMpfCraftable": true,
-    "cost": {
-      "bmat": 120,
-      "hemat": 15
-    }
-  },
-  {
-    "displayId": 17,
-    "faction": [
-      "warden"
-    ],
-    "imgName": "A3_Harpa_Fragmentation_Grenade.png",
-    "itemName": "A3 Harpa Fragmentation Grenade",
-    "itemDesc": "This anti-personnel fragmentation grenade is designed with pull-pin mechanics and a time fuse for user safety. Serrations in the casing allow for a better grip and increased fragmentation effectiveness.",
-    "itemCategory": "heavy_arms",
-    "itemClass": "Grenade",
-    "damageType": "Deals light kinetic damage",
     "numberProduced": 20,
+    "damageType": "Deals explosive damage",
+    "damageDesc": "Can penetrate armored vehicles",
+    "vehiclePen": "Damage to the sides and rear of armored vehicles have a higher chance to penetrate at close range and at direct angles.",
     "isTeched": false,
     "isMpfCraftable": true,
     "cost": {
-      "bmat": 100,
+      "bmat": 80,
       "emat": 20
     }
   },
   {
-    "displayId": 18,
+    "displayId": 4,
     "faction": [
       "colonial",
       "warden"
@@ -809,7 +696,7 @@
     }
   },
   {
-    "displayId": 19,
+    "displayId": 5,
     "faction": [
       "colonial",
       "warden"
@@ -831,152 +718,19 @@
     }
   },
   {
-    "displayId": 20,
+    "displayId": 6,
     "faction": [
-      "colonial",
       "warden"
     ],
-    "imgName": "250mm.png",
-    "itemName": "250mm",
-    "itemDesc": "A shell that is launched over short distances by a spigot mortar.",
+    "imgName": "Cutler_Launcher_4.png",
+    "itemName": "Cutler Launcher 4",
+    "itemDesc": "The Cutler Launcher is capable of firing and unguided, rocket-propelled grenade over short distances with startling efficiency. Its simple design allows for easy deployment and storage.",
     "itemCategory": "heavy_arms",
-    "numberProduced": 5,
-    "damageType": "Deals demolition damage",
-    "isTeched": false,
-    "isMpfCraftable": true,
-    "cost": {
-      "bmat": 120,
-      "hemat": 25
-    }
-  },
-  {
-    "displayId": 21,
-    "faction": [
-      "colonial",
-      "warden"
-    ],
-    "imgName": "Warhead.png",
-    "itemName": "Warhead",
-    "itemDesc": "The payload for ballistic rockets. A high yield bomb that delivers over 3 tons of TNT and is capable of leveling an entire village or town block.",
-    "itemCategory": "heavy_arms",
-    "numberProduced": 1,
-    "isTeched": false,
-    "isMpfCraftable": false,
-    "cost": {
-      "rmat": 200,
-      "hemat": 1000
-    }
-  },
-  {
-    "displayId": 22,
-    "faction": [
-      "colonial",
-      "warden"
-    ],
-    "imgName": "300mm.png",
-    "itemName": "300mm",
-    "itemDesc": "Payload for the storm cannon.",
-    "itemCategory": "heavy_arms",
-    "numberProduced": 5,
-    "damageType": "Deals demolition damage",
-    "isTeched": false,
-    "isMpfCraftable": true,
-    "cost": {
-      "bmat": 135,
-      "hemat": 30
-    }
-  },
-  {
-    "displayId": 23,
-    "faction": [
-      "colonial"
-    ],
-    "imgName": "Daucus_isg_III.png",
-    "itemName": "Daucus isg.III",
-    "itemDesc": "This heavy infantry cannon requires a tripod for stability. The Daucus is designed to give infantry a foothold against enemy vehicles and light fortifications or established fortified garrisons.",
-    "itemCategory": "heavy_arms",
-    "itemClass": "Infantry Support Gun",
-    "ammoUsed": "30mm",
-    "numberProduced": 5,
-    "isTeched": true,
-    "isMpfCraftable": true,
-    "cost": {
-      "bmat": 150
-    }
-  },
-  {
-    "displayId": 24,
-    "faction": [
-      "colonial",
-      "warden"
-    ],
-    "imgName": "30mm.png",
-    "itemName": "30mm",
-    "itemDesc": "Standard explosive shell for small vehicles or infantry weapons.",
-    "itemCategory": "heavy_arms",
-    "numberProduced": 20,
+    "itemClass": "RPG",
+    "ammoUsed": "R.P.G. Shell",
     "damageType": "Deals explosive damage",
     "damageDesc": "Can penetrate armored vehicles",
     "vehiclePen": "Damage to the sides and rear of armored vehicles have a higher chance to penetrate at close range and at direct angles.",
-    "isTeched": false,
-    "isMpfCraftable": true,
-    "cost": {
-      "bmat": 80,
-      "emat": 20
-    }
-  },
-  {
-    "displayId": 25,
-    "faction": [
-      "warden"
-    ],
-    "imgName": "Malone_MK_2.png",
-    "itemName": "Malone MK.2",
-    "itemDesc": "This heavy machine gun is bulky enough to require a steady surface to maintain stability. The Malone series of machine guns are unmatched defenders on the battlefield.",
-    "itemCategory": "heavy_arms",
-    "itemClass": "Machine Gun",
-    "ammoUsed": "12.7mm",
-    "numberProduced": 10,
-    "isTeched": true,
-    "isMpfCraftable": true,
-    "cost": {
-      "rmat": 30
-    }
-  },
-  {
-    "displayId": 26,
-    "faction": [
-      "warden"
-    ],
-    "imgName": "A_T_R_P_G_Indirect_Shell.png",
-    "itemName": "A.T.R.P.G. Indirect Shell",
-    "itemDesc": "An anti-tank projectile fired from indirect R.P.G. weapons.",
-    "itemCategory": "heavy_arms",
-    "damageType": "Deals armor piercing damage",
-    "damageDesc": "Can penetrate armored vehicles",
-    "vehiclePen": "High chance to penetrate armored vehicles.",
-    "numberProduced": 15,
-    "isTeched": false,
-    "isMpfCraftable": true,
-    "cost": {
-      "bmat": 60,
-      "emat": 75
-    }
-  },
-  {
-    "displayId": 27,
-    "faction": [
-      "warden"
-    ],
-    "imgName": "Bonesaw_MK_3.png",
-    "itemName": "Bonesaw MK.3",
-    "itemDesc": "The pride of the Warden anti-armored arsenal, the Bonesaw Mk.3 has one job; to cut through heavy metal plating of Colonial tanks.",
-    "itemCategory": "heavy_arms",
-    "itemClass": "Anti-Tank RPG",
-    "ammoUsed": "A.T.R.P.G. Indirect Shell",
-    "damageType": "Deals armor piercing damage",
-    "damageDesc": "Can penetrate armored vehicles",
-    "vehiclePen": "High chance to penetrate armored vehicles.",
     "numberProduced": 5,
     "isTeched": true,
     "isMpfCraftable": true,
@@ -986,48 +740,28 @@
     }
   },
   {
-    "displayId": 28,
+    "displayId": 7,
     "faction": [
+      "colonial",
       "warden"
     ],
-    "imgName": "Mounted_Bonesaw_MK_3.png",
-    "itemName": "Mounted Bonesaw MK.3",
-    "itemDesc": "This variant of the Bonesaw MK.3 is specially designed for use with tripod mounts. This affords it with increased stability and maximum potential range.",
+    "imgName": "R_P_G_Shell.png",
+    "itemName": "R.P.G Shell",
+    "itemDesc": "An explosive projectile fired from an R.P.G.",
     "itemCategory": "heavy_arms",
-    "itemClass": "Anti-Tank RPG",
-    "ammoUsed": "A.T.R.P.G. Indirect Shell",
-    "damageType": "Deals armor piercing damage",
+    "numberProduced": 15,
+    "damageType": "Deals explosive damage",
     "damageDesc": "Can penetrate armored vehicles",
-    "vehiclePen": "High chance to penetrate armored vehicles.",
-    "numberProduced": 5,
-    "isTeched": true,
-    "isMpfCraftable": true,
-    "cost": {
-      "bmat": 200
-    }
-  },
-  {
-    "displayId": 29,
-    "faction": [
-      "colonial"
-    ],
-    "imgName": "Bomastone_Grenade.png",
-    "itemName": "Bomastone Grenade",
-    "itemDesc": "The bomastone is a 'stick' style fragmentation grenade with a handle designed to aid in lobbing over moderate distances.",
-    "itemCategory": "heavy_arms",
-    "itemClass": "Grenade",
-    "numberProduced": 25,
-    "damageType": "Deals shrapnel damage",
-    "damageDesc": "Always causes target to bleed",
+    "vehiclePen": "Damage to the sides and rear of armored vehicles have a higher chance to penetrate at close range and at direct angles.",
     "isTeched": false,
     "isMpfCraftable": true,
     "cost": {
-      "bmat": 100,
-      "emat": 20
+      "bmat": 60,
+      "emat": 75
     }
   },
   {
-    "displayId": 30,
+    "displayId": 8,
     "faction": [
       "colonial"
     ],
@@ -1050,7 +784,29 @@
     }
   },
   {
-    "displayId": 31,
+    "displayId": 9,
+    "faction": [
+      "colonial"
+    ],
+    "imgName": "Ignifist_30.png",
+    "itemName": "Ignifist 30",
+    "itemDesc": "This single-use rocket can be fired a short distance. Designed to punch holes into tanks, the ignifist is the perfect tool for infantry anticipating armored resistance.",
+    "itemCategory": "heavy_arms",
+    "itemClass": "Anti-Tank RPG",
+    "numberProduced": 15,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "damageType": "Deals armor piercing damage",
+    "damageDesc": "Can penetrate armored vehicles",
+    "vehiclePen": "Damage to the sides and rear of armored vehicles have a higher chance to penetrate at close range and at direct angles.",
+    "vehiclePenChance": "High chance to penetrate armored vehicles.",
+    "cost": {
+      "bmat": 60,
+      "emat": 50
+    }
+  },
+  {
+    "displayId": 10,
     "faction": [
       "colonial"
     ],
@@ -1073,29 +829,7 @@
     }
   },
   {
-    "displayId": 32,
-    "faction": [
-      "colonial"
-    ],
-    "imgName": "Ignifist_30.png",
-    "itemName": "Ignifist 30",
-    "itemDesc": "This single-use rocket can be fired a short distance. Designed to punch holes into tanks, the ignifist is the perfect tool for infantry anticipating armored resistance.",
-    "itemCategory": "heavy_arms",
-    "itemClass": "Anti-Tank RPG",
-    "numberProduced": 15,
-    "isTeched": true,
-    "isMpfCraftable": true,
-    "damageType": "Deals armor piercing damage",
-    "damageDesc": "Can penetrate armored vehicles",
-    "vehiclePen": "Damage to the sides and rear of armored vehicles have a higher chance to penetrate at close range and at direct angles.",
-    "vehiclePenChance": "High chance to penetrate armored vehicles.",
-    "cost": {
-      "bmat": 60,
-      "emat": 50
-    }
-  },
-  {
-    "displayId": 33,
+    "displayId": 11,
     "faction": [
       "colonial"
     ],
@@ -1116,7 +850,397 @@
     }
   },
   {
+    "displayId": 12,
+    "faction": [
+      "warden"
+    ],
+    "imgName": "Bonesaw_MK_3.png",
+    "itemName": "Bonesaw MK.3",
+    "itemDesc": "The pride of the Warden anti-armored arsenal, the Bonesaw Mk.3 has one job; to cut through heavy metal plating of Colonial tanks.",
+    "itemCategory": "heavy_arms",
+    "itemClass": "Anti-Tank RPG",
+    "ammoUsed": "A.T.R.P.G. Indirect Shell",
+    "damageType": "Deals armor piercing damage",
+    "damageDesc": "Can penetrate armored vehicles",
+    "vehiclePen": "High chance to penetrate armored vehicles.",
+    "numberProduced": 5,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 100,
+      "rmat": 25
+    }
+  },
+  {
+    "displayId": 13,
+    "faction": [
+      "warden"
+    ],
+    "imgName": "Mounted_Bonesaw_MK_3.png",
+    "itemName": "Mounted Bonesaw MK.3",
+    "itemDesc": "This variant of the Bonesaw MK.3 is specially designed for use with tripod mounts. This affords it with increased stability and maximum potential range.",
+    "itemCategory": "heavy_arms",
+    "itemClass": "Anti-Tank RPG",
+    "ammoUsed": "A.T.R.P.G. Indirect Shell",
+    "damageType": "Deals armor piercing damage",
+    "damageDesc": "Can penetrate armored vehicles",
+    "vehiclePen": "High chance to penetrate armored vehicles.",
+    "numberProduced": 5,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 200
+    }
+  },
+  {
+    "displayId": 14,
+    "faction": [
+      "warden"
+    ],
+    "imgName": "A_T_R_P_G_Indirect_Shell.png",
+    "itemName": "A.T.R.P.G. Indirect Shell",
+    "itemDesc": "An anti-tank projectile fired from indirect R.P.G. weapons.",
+    "itemCategory": "heavy_arms",
+    "damageType": "Deals armor piercing damage",
+    "damageDesc": "Can penetrate armored vehicles",
+    "vehiclePen": "High chance to penetrate armored vehicles.",
+    "numberProduced": 15,
+    "isTeched": false,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 60,
+      "emat": 75
+    }
+  },
+  {
+    "displayId": 15,
+    "faction": [
+      "colonial",
+      "warden"
+    ],
+    "imgName": "Cremari_Mortar.png",
+    "itemName": "Cremari Mortar",
+    "itemDesc": "This short-range cannon is designed to bombard enemy infantry with indirect fire.",
+    "itemCategory": "heavy_arms",
+    "itemClass": "Mortar",
+    "ammoUsed": "Mortar Shell, Mortar Shrapnel Shell, Mortar Flare Shell",
+    "numberProduced": 5,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 100,
+      "rmat": 25
+    }
+  },
+  {
+    "displayId": 16,
+    "faction": [
+      "colonial",
+      "warden"
+    ],
+    "imgName": "Mortar_Shell.png",
+    "itemName": "Mortar Shell",
+    "itemDesc": "An explosive projectile fired from a mortar.",
+    "itemCategory": "heavy_arms",
+    "numberProduced": 15,
+    "damageType": "Deals high explosive damage",
+    "damageDesc": "Reduced damage against trenches",
+    "isTeched": false,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 60,
+      "emat": 35
+    }
+  },
+  {
+    "displayId": 17,
+    "faction": [
+      "colonial",
+      "warden"
+    ],
+    "imgName": "Mortar_Shell.png",
+    "itemName": "Mortar Shrapnel Shell",
+    "itemDesc": "A shell that explodes into shrapnel on impact, devastating nearby infantry.",
+    "itemCategory": "heavy_arms",
+    "numberProduced": 15,
+    "isTeched": true,
+    "damageType": "Deals shrapnel damage",
+    "damageDesc": "Always causes target to bleed",
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 60,
+      "emat": 15
+    }
+  },
+  {
+    "displayId": 18,
+    "faction": [
+      "colonial",
+      "warden"
+    ],
+    "imgName": "Mortar_Shell.png",
+    "itemName": "Mortar Flare Shell",
+    "itemDesc": "A shell that ignites midair and illuminates a large area, revealing enemy targets.",
+    "itemCategory": "heavy_arms",
+    "numberProduced": 15,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 60,
+      "emat": 10
+    }
+  },
+  {
+    "displayId": 19,
+    "faction": [
+      "colonial",
+      "warden"
+    ],
+    "imgName": "120mm.png",
+    "itemName": "120mm",
+    "itemDesc": "Payload for light artillery weapons.",
+    "itemCategory": "heavy_arms",
+    "numberProduced": 5,
+    "damageType": "Deals high explosive damage",
+    "damageDesc": "Reduced damage against trenches",
+    "isTeched": false,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 60,
+      "emat": 15
+    }
+  },
+  {
+    "displayId": 20,
+    "faction": [
+      "colonial",
+      "warden"
+    ],
+    "imgName": "150mm.png",
+    "itemName": "150mm",
+    "itemDesc": "Payload for heavy artillery weapons.",
+    "itemCategory": "heavy_arms",
+    "numberProduced": 5,
+    "damageType": "Deals high explosive damage",
+    "damageDesc": "Reduced damage against trenches",
+    "isTeched": false,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 120,
+      "hemat": 10
+    }
+  },
+  {
+    "displayId": 21,
+    "faction": [
+      "colonial",
+      "warden"
+    ],
+    "imgName": "250mm.png",
+    "itemName": "250mm",
+    "itemDesc": "A shell that is launched over short distances by a spigot mortar.",
+    "itemCategory": "heavy_arms",
+    "numberProduced": 5,
+    "damageType": "Deals demolition damage",
+    "isTeched": false,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 120,
+      "hemat": 25
+    }
+  },
+  {
+    "displayId": 22,
+    "faction": [
+      "colonial",
+      "warden"
+    ],
+    "imgName": "Green_Ash_Grenade.png",
+    "itemName": "Green Ash Grenade",
+    "itemDesc": "Green ash is an asphyxiating toxin. Inhaling it without protection will result in a quick death. Be sure to wear a gas mask with fresh filters when handling green ash.",
+    "itemCategory": "heavy_arms",
+    "itemClass": "Gas Grenade",
+    "numberProduced": 20,
+    "isTeched": true,
+    "damageType": "Deals poisonous gas damage",
+    "damageDesc": "Causes damage over time",
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 140
+    }
+  },
+  {
+    "displayId": 23,
+    "faction": [
+      "colonial"
+    ],
+    "imgName": "Bomastone_Grenade.png",
+    "itemName": "Bomastone Grenade",
+    "itemDesc": "The bomastone is a 'stick' style fragmentation grenade with a handle designed to aid in lobbing over moderate distances.",
+    "itemCategory": "heavy_arms",
+    "itemClass": "Grenade",
+    "numberProduced": 25,
+    "damageType": "Deals shrapnel damage",
+    "damageDesc": "Always causes target to bleed",
+    "isTeched": false,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 100,
+      "emat": 20
+    }
+  },
+  {
+    "displayId": 24,
+    "faction": [
+      "warden"
+    ],
+    "imgName": "A3_Harpa_Fragmentation_Grenade.png",
+    "itemName": "A3 Harpa Fragmentation Grenade",
+    "itemDesc": "This anti-personnel fragmentation grenade is designed with pull-pin mechanics and a time fuse for user safety. Serrations in the casing allow for a better grip and increased fragmentation effectiveness.",
+    "itemCategory": "heavy_arms",
+    "itemClass": "Grenade",
+    "damageType": "Deals light kinetic damage",
+    "numberProduced": 20,
+    "isTeched": false,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 100,
+      "emat": 20
+    }
+  },
+  {
+    "displayId": 25,
+    "faction": [
+      "colonial",
+      "warden"
+    ],
+    "imgName": "Mammon_91_b.png",
+    "itemName": "Mammon 91-b",
+    "itemDesc": "This densely packed, high-explosive grenade is designed to damage structures and vehicles.",
+    "itemCategory": "heavy_arms",
+    "itemClass": "HE Grenade",
+    "numberProduced": 25,
+    "damageType": "Deals explosive damage",
+    "isTeched": false,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 100,
+      "emat": 10
+    }
+  },
+  {
+    "displayId": 26,
+    "faction": [
+      "colonial",
+      "warden"
+    ],
+    "imgName": "Anti_Tank_Sticky_Bomb.png",
+    "itemName": "Anti-Tank Sticky Bomb",
+    "itemDesc": "An adherable grenade designed to penetrate heavy tank armor. The sticky bomb can only be thrown a short distance and is ineffective against structures.",
+    "itemCategory": "heavy_arms",
+    "numberProduced": 10,
+    "damageType": "Deals anti-tank explosive damage",
+    "damageDesc": "High chance of disabling Track subsystem",
+    "isTeched": false,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 50,
+      "emat": 50
+    }
+  },
+  {
+    "displayId": 27,
+    "faction": [
+      "warden"
+    ],
+    "imgName": "BF5_White_Ash_Flask_Grenade.png",
+    "itemName": "BF5 White Ash Flask Grenade",
+    "itemDesc": "An explosive flask used for melting enemy armor. This carefully designed liquid bomb explodes into a dazzling flash of molten debris upon impact.",
+    "itemCategory": "heavy_arms",
+    "itemClass": "Anti-Tank Grenade",
+    "damageType": "Deals anti-tank explosive damage",
+    "damageDesc": "High chance of disabling Track subsystem",
+    "numberProduced": 15,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 100,
+      "emat": 50
+    }
+  },
+  {
+    "displayId": 28,
+    "faction": [
+      "colonial",
+      "warden"
+    ],
+    "imgName": "Warhead.png",
+    "itemName": "Warhead",
+    "itemDesc": "The payload for ballistic rockets. A high yield bomb that delivers over 3 tons of TNT and is capable of leveling an entire village or town block.",
+    "itemCategory": "heavy_arms",
+    "numberProduced": 1,
+    "isTeched": false,
+    "isMpfCraftable": false,
+    "cost": {
+      "rmat": 200,
+      "hemat": 1000
+    }
+  },
+  {
+    "displayId": 39,
+    "faction": [
+      "colonial",
+      "warden"
+    ],
+    "imgName": "300mm.png",
+    "itemName": "300mm",
+    "itemDesc": "Payload for the storm cannon.",
+    "itemCategory": "heavy_arms",
+    "numberProduced": 5,
+    "damageType": "Deals demolition damage",
+    "isTeched": false,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 135,
+      "hemat": 30
+    }
+  },
+  {
     "displayId": 0,
+    "faction": [
+      "colonial",
+      "warden"
+    ],
+    "imgName": "Shovel.png",
+    "itemName": "Shovel",
+    "itemDesc": "A tool for digging trenches and other entrenched structures.",
+    "itemCategory": "utilities",
+    "numberProduced": 10,
+    "isMpfCraftable": false,
+    "isTeched": false,
+    "cost": {
+      "bmat": 200
+    }
+  },
+  {
+    "displayId": 1,
+    "faction": [
+      "colonial",
+      "warden"
+    ],
+    "imgName": "Sledge_Hammer.png",
+    "itemName": "Sledge Hammer",
+    "itemDesc": "A tool used to salvage components from remains of old vehicles and equipment.",
+    "itemCategory": "utilities",
+    "isMpfCraftable": false,
+    "numberProduced": 10,
+    "isTeched": true,
+    "cost": {
+      "bmat": 200
+    }
+  },
+  {
+    "displayId": 2,
     "faction": [
       "colonial",
       "warden"
@@ -1133,7 +1257,7 @@
     }
   },
   {
-    "displayId": 1,
+    "displayId": 3,
     "faction": [
       "colonial",
       "warden"
@@ -1150,7 +1274,7 @@
     }
   },
   {
-    "displayId": 2,
+    "displayId": 4,
     "faction": [
       "colonial",
       "warden"
@@ -1167,7 +1291,7 @@
     }
   },
   {
-    "displayId": 3,
+    "displayId": 5,
     "faction": [
       "colonial",
       "warden"
@@ -1184,7 +1308,7 @@
     }
   },
   {
-    "displayId": 4,
+    "displayId": 6,
     "faction": [
       "colonial",
       "warden"
@@ -1201,7 +1325,7 @@
     }
   },
   {
-    "displayId": 5,
+    "displayId": 7,
     "faction": [
       "colonial",
       "warden"
@@ -1218,7 +1342,7 @@
     }
   },
   {
-    "displayId": 6,
+    "displayId": 8,
     "faction": [
       "colonial",
       "warden"
@@ -1236,7 +1360,24 @@
     }
   },
   {
-    "displayId": 7,
+    "displayId": 9,
+    "faction": [
+      "colonial",
+      "warden"
+    ],
+    "imgName": "Tripod.png",
+    "itemName": "Tripod",
+    "itemDesc": "A mount point for deployable infantry weapons and equipment.",
+    "itemCategory": "utilities",
+    "numberProduced": 5,
+    "isMpfCraftable": false,
+    "isTeched": false,
+    "cost": {
+      "bmat": 100
+    }
+  },
+  {
+    "displayId": 10,
     "faction": [
       "colonial"
     ],
@@ -1256,7 +1397,7 @@
     }
   },
   {
-    "displayId": 8,
+    "displayId": 11,
     "faction": [
       "colonial",
       "warden"
@@ -1276,24 +1417,7 @@
     }
   },
   {
-    "displayId": 9,
-    "faction": [
-      "colonial",
-      "warden"
-    ],
-    "imgName": "Sledge_Hammer.png",
-    "itemName": "Sledge Hammer",
-    "itemDesc": "A tool used to salvage components from remains of old vehicles and equipment.",
-    "itemCategory": "utilities",
-    "isMpfCraftable": false,
-    "numberProduced": 10,
-    "isTeched": true,
-    "cost": {
-      "bmat": 200
-    }
-  },
-  {
-    "displayId": 10,
+    "displayId": 12,
     "faction": [
       "colonial",
       "warden"
@@ -1314,7 +1438,7 @@
     }
   },
   {
-    "displayId": 11,
+    "displayId": 13,
     "faction": [
       "colonial",
       "warden"
@@ -1331,41 +1455,41 @@
     }
   },
   {
-    "displayId": 12,
+    "displayId": 14,
     "faction": [
       "colonial",
       "warden"
     ],
-    "imgName": "Shovel.png",
-    "itemName": "Shovel",
-    "itemDesc": "A tool for digging trenches and other entrenched structures.",
+    "imgName": "Listening_Kit.png",
+    "itemName": "Listening Kit",
+    "itemDesc": "A device used to intercept enemy radio broadcasts transmitted from nearby sources.",
     "itemCategory": "utilities",
-    "numberProduced": 10,
+    "numberProduced": 3,
     "isMpfCraftable": false,
-    "isTeched": false,
+    "isTeched": true,
     "cost": {
-      "bmat": 200
-    }
-  },
-  {
-    "displayId": 13,
-    "faction": [
-      "colonial",
-      "warden"
-    ],
-    "imgName": "Tripod.png",
-    "itemName": "Tripod",
-    "itemDesc": "A mount point for deployable infantry weapons and equipment.",
-    "itemCategory": "utilities",
-    "numberProduced": 5,
-    "isMpfCraftable": false,
-    "isTeched": false,
-    "cost": {
-      "bmat": 100
+      "bmat": 120
     }
   },
   {
     "displayId": 0,
+    "faction": [
+      "colonial",
+      "warden"
+    ],
+    "imgName": "Soldier_Supplies.png",
+    "itemName": "Soldier Supplies",
+    "itemDesc": "A standard issue set of supplies for foot soldiers. Bases must be stockpiled with soldier supplies in order for players to spawn.",
+    "itemCategory": "medical",
+    "numberProduced": 10,
+    "isMpfCraftable": false,
+    "isTeched": false,
+    "cost": {
+      "bmat": 80
+    }
+  },
+  {
+    "displayId": 1,
     "faction": [
       "colonial",
       "warden"
@@ -1382,7 +1506,7 @@
     }
   },
   {
-    "displayId": 1,
+    "displayId": 2,
     "faction": [
       "colonial",
       "warden"
@@ -1399,7 +1523,7 @@
     }
   },
   {
-    "displayId": 2,
+    "displayId": 3,
     "faction": [
       "colonial",
       "warden"
@@ -1416,7 +1540,7 @@
     }
   },
   {
-    "displayId": 3,
+    "displayId": 4,
     "faction": [
       "colonial",
       "warden"
@@ -1438,23 +1562,6 @@
       "colonial",
       "warden"
     ],
-    "imgName": "Soldier_Supplies.png",
-    "itemName": "Soldier Supplies",
-    "itemDesc": "A standard issue set of supplies for foot soldiers. Bases must be stockpiled with soldier supplies in order for players to spawn.",
-    "itemCategory": "supplies",
-    "numberProduced": 10,
-    "isMpfCraftable": false,
-    "isTeched": false,
-    "cost": {
-      "bmat": 80
-    }
-  },
-  {
-    "displayId": 1,
-    "faction": [
-      "colonial",
-      "warden"
-    ],
     "imgName": "Garrison_Supplies.png",
     "itemName": "Garrison Supplies",
     "itemDesc": "Supplies for maintaining structures. Store at bases to prevent decay on surrounding structures.",
@@ -1467,7 +1574,7 @@
     }
   },
   {
-    "displayId": 2,
+    "displayId": 1,
     "faction": [
       "colonial",
       "warden"
@@ -1489,6 +1596,23 @@
       "colonial",
       "warden"
     ],
+    "imgName": "Barbed_Wire_Pallet.png",
+    "itemName": "Barbed Wire Pallet",
+    "itemDesc": "A pallet of Barbed Wire that's used for the construction of frontline defenses.",
+    "itemCategory": "shipables",
+    "numberProduced": 3,
+    "isTeched": false,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 300 
+    }
+  },
+  {
+    "displayId": 1,
+    "faction": [
+      "colonial",
+      "warden"
+    ],
     "imgName": "Concrete_Mixer.png",
     "itemName": "Concrete Mixer",
     "itemDesc": "A portable device that mixes various materials to form Concrete, which are used to build heavily fortified structures.",
@@ -1497,11 +1621,11 @@
     "isTeched": true,
     "isMpfCraftable": true,
     "cost": {
-      "rmat": 75
+      "rmat": 225
     }
   },
   {
-    "displayId": 1,
+    "displayId": 2,
     "faction": [
       "colonial",
       "warden"
@@ -1514,11 +1638,11 @@
     "isTeched": true,
     "isMpfCraftable": true,
     "cost": {
-      "bmat": 150
+      "bmat": 450
     }
   },
   {
-    "displayId": 2,
+    "displayId": 3,
     "faction": [
       "colonial"
     ],
@@ -1534,7 +1658,7 @@
     }
   },
   {
-    "displayId": 3,
+    "displayId": 4,
     "faction": [
       "warden"
     ],
@@ -1546,11 +1670,11 @@
     "isTeched": true,
     "isMpfCraftable": true,
     "cost": {
-      "rmat": 175
+      "rmat": 525
     }
   },
   {
-    "displayId": 4,
+    "displayId": 5,
     "faction": [
       "warden"
     ],
@@ -1562,11 +1686,11 @@
     "isTeched": true,
     "isMpfCraftable": true,
     "cost": {
-      "rmat": 35
+      "rmat": 105
     }
   },
   {
-    "displayId": 5,
+    "displayId": 6,
     "faction": [
       "colonial",
       "warden"
@@ -1579,11 +1703,28 @@
     "isTeched": true,
     "isMpfCraftable": true,
     "cost": {
-      "bmat": 75
+      "bmat": 225
     }
   },
   {
-    "displayId": 6,
+    "displayId": 7,
+    "faction": [
+      "colonial",
+      "warden"
+    ],
+    "imgName": "Metal_Beam_Pallet.png",
+    "itemName": "Metal Beam Pallet",
+    "itemDesc": "A pallet of Metal Beams that's used for the construction of frontline defenses.",
+    "itemCategory": "shipables",
+    "numberProduced": 3,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 300 
+    }
+  },
+  {
+    "displayId": 8,
     "faction": [
       "colonial",
       "warden"
@@ -1596,24 +1737,58 @@
     "isTeched": false,
     "isMpfCraftable": true,
     "cost": {
-      "bmat": 50
+      "bmat": 150
     }
   },
   {
-    "displayId": 7,
+    "displayId": 9,
+    "faction": [
+      "colonial",
+      "warden"
+    ],
+    "imgName": "Sandbag_Pallet.png",
+    "itemName": "Sandbag Pallet",
+    "itemDesc": "A pallet of sandbags that's used for the construction of frontline defenses.",
+    "itemCategory": "shipables",
+    "numberProduced": 3,
+    "isTeched": false,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 300 
+    }
+  },
+  {
+    "displayId": 10,
     "faction": [
       "colonial",
       "warden"
     ],
     "imgName": "Shipping_Container.png",
     "itemName": "Shipping Container",
-    "itemDesc": "A container that can carry large quantities of items and can be transported by certain vehicles.",
+    "itemDesc": "A container for shipping very large quantities of Crates using Crane loaded vehicles. This type of container can only be unloaded at Storage Depots and Seaports.",
     "itemCategory": "shipables",
     "numberProduced": 3,
     "isTeched": false,
     "isMpfCraftable": true,
     "cost": {
-      "bmat": 100
+      "bmat": 300
+    }
+  },
+  {
+    "displayId": 11,
+    "faction": [
+      "colonial",
+      "warden"
+    ],
+    "imgName": "Small_Shipping_Container.png",
+    "itemName": "Small Shipping Container",
+    "itemDesc": "A container for shipping large quantities of Crates using Crane loaded vehicles. This type of container can be unloaded from any location.",
+    "itemCategory": "shipables",
+    "numberProduced": 3,
+    "isTeched": false,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 300 
     }
   },
   {
@@ -2207,6 +2382,23 @@
     "faction": [
       "colonial"
     ],
+    "imgName": "86K_a_Bardiche.png",
+    "itemName": "86K-a \"Bardiche\"",
+    "itemClass": "Assault Tank",
+    "itemDesc": "Unlike the 85-series, the Bardiche sports a heavier, more durable build and is fitted with a coaxial heavy machinegun along with a powerful, short-barrelled 68mm turret. Modern Kraunian engineering allows for a fast reload, making it an ideal tool to combat enemy armor.",
+    "itemCategory": "vehicles",
+    "numberProduced": 1,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "rmat": 525
+    }
+  },
+  {
+    "displayId": 35,
+    "faction": [
+      "colonial"
+    ],
     "imgName": "85K_b_Falchion.png",
     "itemName": "85K-b \"Falchion\"",
     "itemClass": "Assault Tank",
@@ -2221,7 +2413,7 @@
     }
   },
   {
-    "displayId": 35,
+    "displayId": 36,
     "faction": [
       "colonial"
     ],
@@ -2239,7 +2431,7 @@
     }
   },
   {
-    "displayId": 36,
+    "displayId": 37,
     "faction": [
       "colonial"
     ],
@@ -2256,7 +2448,7 @@
     }
   },
   {
-    "displayId": 37,
+    "displayId": 38,
     "faction": [
       "colonial"
     ],
@@ -2273,7 +2465,7 @@
     }
   },
   {
-    "displayId": 38,
+    "displayId": 39,
     "faction": [
       "colonial"
     ],
@@ -2290,7 +2482,7 @@
     }
   },
   {
-    "displayId": 39,
+    "displayId": 40,
     "faction": [
       "colonial"
     ],
@@ -2307,7 +2499,7 @@
     }
   },
   {
-    "displayId": 40,
+    "displayId": 41,
     "faction": [
       "colonial"
     ],
@@ -2324,7 +2516,7 @@
     }
   },
   {
-    "displayId": 41,
+    "displayId": 42,
     "faction": [
       "colonial"
     ],
@@ -2344,7 +2536,7 @@
     }
   },
   {
-    "displayId": 42,
+    "displayId": 43,
     "faction": [
       "colonial"
     ],
@@ -2361,7 +2553,7 @@
     }
   },
   {
-    "displayId": 43,
+    "displayId": 44,
     "faction": [
       "colonial"
     ],
@@ -2378,7 +2570,7 @@
     }
   },
   {
-    "displayId": 44,
+    "displayId": 45,
     "faction": [
       "colonial"
     ],
@@ -2395,7 +2587,7 @@
     }
   },
   {
-    "displayId": 45,
+    "displayId": 46,
     "faction": [
       "colonial"
     ],
@@ -2412,7 +2604,7 @@
     }
   },
   {
-    "displayId": 46,
+    "displayId": 47,
     "faction": [
       "colonial"
     ],
@@ -2429,7 +2621,7 @@
     }
   },
   {
-    "displayId": 47,
+    "displayId": 48,
     "faction": [
       "colonial"
     ],
@@ -2446,7 +2638,7 @@
     }
   },
   {
-    "displayId": 48,
+    "displayId": 49,
     "faction": [
       "warden"
     ],
@@ -2463,7 +2655,7 @@
     }
   },
   {
-    "displayId": 49,
+    "displayId": 50,
     "faction": [
       "warden"
     ],
@@ -2480,7 +2672,7 @@
     }
   },
   {
-    "displayId": 50,
+    "displayId": 51,
     "faction": [
       "warden"
     ],
@@ -2497,7 +2689,25 @@
     }
   },
   {
-    "displayId": 51,
+    "displayId": 52,
+    "faction": [
+      "warden"
+    ],
+    "imgName": "Gallagher_Outlaw_Mk_II.png",
+    "itemName": "Gallagher Outlaw Mk. II",
+    "itemClass": "Cruiser Tank",
+    "itemDesc": "Originally designed in response to increasing swarms of Mesean armor, the Outlaw is an exceptionally capable medium tank armed with a long-range 40mm turret and includes a built-in storm rifle support position.",
+    "highVelocityBonus": "Engine can be boosted for increased top speed.",
+    "itemCategory": "vehicles",
+    "numberProduced": 1,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "rmat": 495
+    }
+  },
+  {
+    "displayId": 53,
     "faction": [
       "warden"
     ],
@@ -2515,7 +2725,7 @@
     }
   },
   {
-    "displayId": 52,
+    "displayId": 54,
     "faction": [
       "warden"
     ],
@@ -2532,7 +2742,7 @@
     }
   },
   {
-    "displayId": 53,
+    "displayId": 55,
     "faction": [
       "warden"
     ],
@@ -2549,7 +2759,7 @@
     }
   },
   {
-    "displayId": 54,
+    "displayId": 56,
     "faction": [
       "warden"
     ],
@@ -2566,7 +2776,7 @@
     }
   },
   {
-    "displayId": 55,
+    "displayId": 57,
     "faction": [
       "warden"
     ],
@@ -2583,7 +2793,7 @@
     }
   },
   {
-    "displayId": 56,
+    "displayId": 58,
     "faction": [
       "warden"
     ],
@@ -2600,7 +2810,7 @@
     }
   },
   {
-    "displayId": 57,
+    "displayId": 59,
     "faction": [
       "warden"
     ],
@@ -2617,7 +2827,7 @@
     }
   },
   {
-    "displayId": 58,
+    "displayId": 60,
     "faction": [
       "warden"
     ],
@@ -2634,7 +2844,7 @@
     }
   },
   {
-    "displayId": 59,
+    "displayId": 61,
     "faction": [
       "warden"
     ],
@@ -2651,7 +2861,7 @@
     }
   },
   {
-    "displayId": 60,
+    "displayId": 62,
     "faction": [
       "warden"
     ],
@@ -2668,7 +2878,7 @@
     }
   },
   {
-    "displayId": 61,
+    "displayId": 63,
     "faction": [
       "warden"
     ],
@@ -2685,7 +2895,7 @@
     }
   },
   {
-    "displayId": 62,
+    "displayId": 64,
     "faction": [
       "warden"
     ],
@@ -2702,7 +2912,7 @@
     }
   },
   {
-    "displayId": 63,
+    "displayId": 65,
     "faction": [
       "warden"
     ],
@@ -2719,7 +2929,7 @@
     }
   },
   {
-    "displayId": 64,
+    "displayId": 66,
     "faction": [
       "colonial",
       "warden"
@@ -2737,7 +2947,7 @@
     }
   },
   {
-    "displayId": 65,
+    "displayId": 67,
     "faction": [
       "colonial",
       "warden"
@@ -2755,7 +2965,7 @@
     }
   },
   {
-    "displayId": 66,
+    "displayId": 68,
     "faction": [
       "colonial"
     ],
@@ -2772,7 +2982,7 @@
     }
   },
   {
-    "displayId": 67,
+    "displayId": 69,
     "faction": [
       "warden"
     ],
@@ -2789,7 +2999,7 @@
     }
   },
   {
-    "displayId": 68,
+    "displayId": 70,
     "faction": [
       "warden"
     ],
@@ -2807,7 +3017,7 @@
     }
   },
   {
-    "displayId": 69,
+    "displayId": 71,
     "faction": [
       "colonial",
       "warden"
@@ -2825,7 +3035,7 @@
     }
   },
   {
-    "displayId": 70,
+    "displayId": 72,
     "faction": [
       "colonial",
       "warden"
@@ -2843,7 +3053,7 @@
     }
   },
   {
-    "displayId": 71,
+    "displayId": 73,
     "faction": [
       "colonial",
       "warden"
@@ -2858,6 +3068,290 @@
     "isMpfCraftable": true,
     "cost": {
       "bmat": 375
+    }
+  },
+  {
+    "displayId": 0,
+    "faction": [
+      "colonial"
+    ],
+    "imgName": "Grenadiers_Baldric.png",
+    "itemName": "Fabri Rucksack",
+    "itemClass": "Colonial Engineering Uniform",
+    "itemDesc": "Engineers are the bones of the Mesean Republic. They are outfitted with a heavy bag and belts for easy access to tools and handheld materials.",
+    "itemCategory": "uniforms",
+    "outfitBuffs": [
+      "8 backpack slots",
+      "Materials have reduced encumberance"
+    ],
+    "numberProduced": 20,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 100
+    }
+  },
+  {
+    "displayId": 1,
+    "faction": [
+      "colonial"
+    ],
+    "imgName": "Grenadiers_Baldric.png",
+    "itemName": "Grenadier's Baldric",
+    "itemClass": "Colonial Grenade Uniform",
+    "itemDesc": "Of the most distinguished divisions of the Legion are the Grenadiers. They are outfitted with specialized satchels and pockets for maximizing their capacity to hail explosives.",
+    "itemCategory": "uniforms",
+    "outfitBuffs": [
+      "6 backpack slots",
+      "Grenades stack",
+      "Grenades have reduced encumberance"
+    ],
+    "numberProduced": 20,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 100
+    }
+  },
+  {
+    "displayId": 2,
+    "faction": [
+      "colonial"
+    ],
+    "imgName": "Grenadiers_Baldric.png",
+    "itemName": "Medic Fatigues",
+    "itemClass": "Colonial Medic Uniform",
+    "itemDesc": "For medics of the Legion, this uniform has a plethora of pockets and bags designed to carry and deploy first aid gear easily.",
+    "itemCategory": "uniforms",
+    "outfitBuffs": [
+      "6 backpack slots",
+      "Bandages and Blood Plasma stack",
+      "First Aid Kits and Trauma Kits have reduced encumberance"
+    ],
+    "numberProduced": 20,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 100
+    }
+  },
+  {
+    "displayId": 3,
+    "faction": [
+      "colonial"
+    ],
+    "imgName": "Legionarys_Oilcoat.png",
+    "itemName": "Legionary's Oilcoat",
+    "itemClass": "Colonial Rain Uniform",
+    "itemDesc": "Quite accustomed to the temperate climates of the south, Colonials wear this oilcloth jacket paired with thick boots to operate at high efficiency in all but the heaviest storms.",
+    "itemCategory": "uniforms",
+    "outfitBuffs": [
+      "6 backpack slots",
+      "Kinetic weapon light ammunition stacks",
+      "High resistance to Rain Storms"
+    ],
+    "numberProduced": 20,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 100
+    }
+  },
+  {
+    "displayId": 4,
+    "faction": [
+      "colonial"
+    ],
+    "imgName": "Grenadiers_Baldric.png",
+    "itemName": "Recon Camo",
+    "itemClass": "Colonial Scout Uniform",
+    "itemDesc": "Legion scouts are deployed on the most dangerous missions. Their gear is lightweight, sturdy and well-suited for extended operations in rugged terrain.",
+    "itemCategory": "uniforms",
+    "outfitBuffs": [
+      "5 backpack slots",
+      "High chance of not being detected by enemy intelligence"
+    ],
+    "numberProduced": 20,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 100
+    }
+  },
+  {
+    "displayId": 5,
+    "faction": [
+      "colonial"
+    ],
+    "imgName": "Grenadiers_Baldric.png",
+    "itemName": "Heavy Topcoat",
+    "itemClass": "Colonial Snow Uniform",
+    "itemDesc": "Unaccustomed to the cold, Legionaries must always adapt. This heavy topcoat is designed to mitigate the effects of cold while still allowing for optimal mobility and combat effectiveness.",
+    "itemCategory": "uniforms",
+    "outfitBuffs": [
+      "6 backpack slots",
+      "Kinetic weapon light ammunition stacks",
+      "Low resistance to Snow Storms"
+    ],
+    "numberProduced": 20,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 100
+    }
+  },
+  {
+    "displayId": 6,
+    "faction": [
+      "colonial"
+    ],
+    "imgName": "Grenadiers_Baldric.png",
+    "itemName": "Tankman's Coveralls",
+    "itemClass": "Colonial Tank Uniform",
+    "itemDesc": "Nothing compares to the efficiency and destructive capabilities of the Colonial armor devision. Tank crew are provided with sturdy coveralls and satchel belts for easy access to essential tools required for tank maintenance and operation.",
+    "itemCategory": "uniforms",
+    "outfitBuffs": [
+      "7 backpack slots",
+      "Gas Mask Filters stack",
+      "Basic Materials have reduced encumbrance"
+    ],
+    "numberProduced": 20,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 100
+    }
+  },
+
+  
+  {
+    "displayId": 7,
+    "faction": [
+      "warden"
+    ],
+    "imgName": "Specialists_Overcoat.png",
+    "itemName": "Specialist's Overcoat",
+    "itemClass": "Warden Heavy Ammo Uniform",
+    "itemDesc": "Warden specialists require a uniform designed to optimize their capacity to haul a variety of heavy ammunition.",
+    "itemCategory": "uniforms",
+    "outfitBuffs": [
+      "8 backpack slots",
+      "Heavy ammunition has reduced encumbrance"
+    ],
+    "numberProduced": 20,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 100
+    }
+  },
+  {
+    "displayId": 8,
+    "faction": [
+      "warden"
+    ],
+    "imgName": "Grenadiers_Baldric.png",
+    "itemName": "Sapper Gear",
+    "itemClass": "Warden Engineering Uniform",
+    "itemDesc": "Caovish engineers are legendary in song and stature. They wear specialized uniforms, outfitted with belts and bags for easy access to tools and handheld materials.",
+    "itemCategory": "uniforms",
+    "outfitBuffs": [
+      "8 backpack slots",
+      "Materials have reduced encumbrance"
+    ],
+    "numberProduced": 20,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 100
+    }
+  },
+  {
+    "displayId": 9,
+    "faction": [
+      "warden"
+    ],
+    "imgName": "Grenadiers_Baldric.png",
+    "itemName": "Physician's Jacket",
+    "itemClass": "Warden Medic Uniform",
+    "itemDesc": "Physicians in the Warden army are unmatched and this uniform has a plethora of pockets and bags designed to carry and deploy first aid gear easily.",
+    "itemCategory": "uniforms",
+    "outfitBuffs": [
+      "6 backpack slots",
+      "Bandages and Blood Plasma stack",
+      "First Aid Kits and Trauma Kits have reduced encumbrance"
+    ],
+    "numberProduced": 20,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 100
+    }
+  },
+  {
+    "displayId": 10,
+    "faction": [
+      "warden"
+    ],
+    "imgName": "Grenadiers_Baldric.png",
+    "itemName": "Outrider's Mantle",
+    "itemClass": "Warden Scout Uniform",
+    "itemDesc": "the Warden army relies on outriders to provide and recieve vital intelligence. Their gear is sturdy and well-suited for extended operations in rugged terrain and inclement weather.",
+    "itemCategory": "uniforms",
+    "outfitBuffs": [
+      "5 backpack slots",
+      "High chance of not being detected by enemy intelligence",
+      "Low resistance to Snow Storms"
+    ],
+    "numberProduced": 20,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 100
+    }
+  },
+  {
+    "displayId": 11,
+    "faction": [
+      "warden"
+    ],
+    "imgName": "Grenadiers_Baldric.png",
+    "itemName": "Caoivish Parka",
+    "itemClass": "Warden Snow Uniform",
+    "itemDesc": "Born and bred in the northern cold, this heavy parka protects Warden infantry from all but the worst blizzards.",
+    "itemCategory": "uniforms",
+    "outfitBuffs": [
+      "6 backpack slots",
+      "Kinetic weapon light ammunition stacks",
+      "High resistance to Snow Storms"
+    ],
+    "numberProduced": 20,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 100
+    }
+  },
+  {
+    "displayId": 12,
+    "faction": [
+      "warden"
+    ],
+    "imgName": "Grenadiers_Baldric.png",
+    "itemName": "Padded Boiler Suit",
+    "itemClass": "Warden Tank Uniform",
+    "itemDesc": "Caovish armor is unmatched in its design and resilience. All crew are provided with a sturdy boilersuit and satchel belts to access essential tools required for tank maintenance and operation.",
+    "itemCategory": "uniforms",
+    "outfitBuffs": [
+      "7 backpack slots",
+      "Gas Mask Filters stack",
+      "Basic Materials have reduced encumbrance"
+    ],
+    "numberProduced": 20,
+    "isTeched": true,
+    "isMpfCraftable": true,
+    "cost": {
+      "bmat": 100
     }
   }
 ]
