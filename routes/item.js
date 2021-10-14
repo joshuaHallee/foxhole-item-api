@@ -12,9 +12,11 @@ const Items = require('../models/Item')
     &isMpfCraftable
 */
 
-router.get('/', async (req, res) => {
+router.get('/', validate, async (req, res) => {
     try {
-        let searchQuery = await validate.validateQuery(req);
+        searchQuery = {}
+        if(req.query.itemCategory) searchQuery.itemCategory = req.query.itemCategory
+        if(req.query.isMpfCraftable != undefined) searchQuery.isMpfCraftable = req.query.isMpfCraftable
 
         const items = await Items.find( searchQuery )
         res.status(200).json(items)
@@ -23,26 +25,27 @@ router.get('/', async (req, res) => {
     }
 })
 
-router.get('/colonial',  async (req, res) => {
+router.get('/colonial', validate, async (req, res) => {
     try {
-        let searchQuery = await validate.validateQuery(req);
-
-        // add resource specific filter
+        searchQuery = {}
+        if(req.query.itemCategory) searchQuery.itemCategory = req.query.itemCategory
+        if(req.query.isMpfCraftable != undefined) searchQuery.isMpfCraftable = req.query.isMpfCraftable
         searchQuery.faction = 'colonial';
+
         const items = await Items.find( searchQuery )
         res.status(200).json(items)
     } catch (err) {
-        console.log(err)
         res.status(500).json(err)
     }
 })
 
-router.get('/warden', async (req, res) => {
+router.get('/warden', validate, async (req, res) => {
     try {
-        let searchQuery = await validate.validateQuery(req);
-
-        // add resource specific filter
+        searchQuery = {}
+        if(req.query.itemCategory) searchQuery.itemCategory = req.query.itemCategory
+        if(req.query.isMpfCraftable != undefined) searchQuery.isMpfCraftable = req.query.isMpfCraftable
         searchQuery.faction = 'warden';
+
         const items = await Items.find( searchQuery )
         res.status(200).json(items)
     } catch (err) {

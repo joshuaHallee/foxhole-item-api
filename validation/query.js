@@ -1,4 +1,5 @@
-const validateQuery = async(req, res, next) => {
+
+module.exports = function validateQuery(req, res, next) {
     try {
         const incomingQueryArgs = req.query
         const acceptedQueryArgs = ['itemCategory','isMpfCraftable']
@@ -15,23 +16,21 @@ const validateQuery = async(req, res, next) => {
         if(req.query.isMpfCraftable) {
             const untestedBool = req.query.isMpfCraftable.toLowerCase()
             if(untestedBool != 'false' && untestedBool != 'true') return res.status(400).json(`bool validation error on: ${untestedBool}`)
-            if(untestedBool == 'false') validatedIsMpfCraftable = false
-            if(untestedBool == 'true') validatedIsMpfCraftable = true
+            
+            if(untestedBool == "true") validatedIsMpfCraftable = true;
+            if(untestedBool == "false") validatedIsMpfCraftable = false;
         }
         
         // create search query
-        let searchQuery = { }
         if (req.query.itemCategory) {
-            searchQuery.itemCategory = req.query.itemCategory
+            req.query.itemCategory = req.query.itemCategory
         }
         if (req.query.isMpfCraftable) {
-            searchQuery.isMpfCraftable = validatedIsMpfCraftable
+            req.query.isMpfCraftable = validatedIsMpfCraftable
         }
 
-        return searchQuery
+        next();
     } catch (err) {
         res.status(500).json(err)
     }
 }
-
-module.exports.validateQuery = validateQuery
