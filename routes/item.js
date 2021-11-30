@@ -18,7 +18,7 @@ router.get('/', validate, async (req, res) => {
         if(req.query.itemCategory) searchQuery.itemCategory = req.query.itemCategory
         if(req.query.isMpfCraftable != undefined) searchQuery.isMpfCraftable = req.query.isMpfCraftable
 
-        const items = await Items.find( searchQuery )
+        const items = await Items.find( searchQuery ).setOptions({ sanitizeFilter: true, strictQuery: false });
         res.status(200).json(items)
     } catch (err) {
         res.status(500).json(err)
@@ -32,7 +32,7 @@ router.get('/colonial', validate, async (req, res) => {
         if(req.query.isMpfCraftable != undefined) searchQuery.isMpfCraftable = req.query.isMpfCraftable
         searchQuery.faction = 'colonial';
 
-        const items = await Items.find( searchQuery )
+        const items = await Items.find( searchQuery ).setOptions({ sanitizeFilter: true, strictQuery: false });
         res.status(200).json(items)
     } catch (err) {
         res.status(500).json(err)
@@ -46,7 +46,7 @@ router.get('/warden', validate, async (req, res) => {
         if(req.query.isMpfCraftable != undefined) searchQuery.isMpfCraftable = req.query.isMpfCraftable
         searchQuery.faction = 'warden';
 
-        const items = await Items.find( searchQuery )
+        const items = await Items.find( searchQuery ).setOptions({ sanitizeFilter: true, strictQuery: false });
         res.status(200).json(items)
     } catch (err) {
         res.status(500).json(err)
