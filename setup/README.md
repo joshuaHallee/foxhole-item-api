@@ -25,10 +25,20 @@ All images found within the images folder, with exclusion to placeholder images,
 This API setup folder contains item [images](./images), but will not host them through the API and never will. You will need to provide a solution for yourself for image hosting.
 
 ## Add .env File
-Example .env file structure with placeholder values. Update the mongodb URI with the new database name.
+Example .env file structure with placeholder values.
+
+`PORT` is your local port you wish to run on.
+
+`RATE_LIMIT_MINUTE` is multiplied by 60 * 1000. Used to set intervals of rate limiting
+
+`RATE_LIMIT_REQUEST` is number of request allowed in the rate limit minute time.
+
+Update the mongodb URI with the new database name.
 
 ```
 PORT=3001
+RATE_LIMIT_MINUTE=15 
+RATE_LIMIT_REQUEST=800 (allow 800 requests, in 15 minutes)
 MONGO_URI=mongodb://localhost:27017/foxhole-item-api
 ```
 
